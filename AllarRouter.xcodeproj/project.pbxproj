@@ -11,64 +11,63 @@
 		9503A2CF1FBDB5A000A4DEE0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9503A2CD1FBDB5A000A4DEE0 /* Main.storyboard */; };
 		9503A2D11FBDB5A000A4DEE0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9503A2D01FBDB5A000A4DEE0 /* Assets.xcassets */; };
 		9503A2D41FBDB5A000A4DEE0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9503A2D21FBDB5A000A4DEE0 /* LaunchScreen.storyboard */; };
-		9503A2DC1FBDB61500A4DEE0 /* RoutersF.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9503A2DB1FBDB61500A4DEE0 /* RoutersF.swift */; };
-		9503A2DE1FBDB62B00A4DEE0 /* UIRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9503A2DD1FBDB62B00A4DEE0 /* UIRouter.swift */; };
-		9503A2E01FBDB63E00A4DEE0 /* TabBarVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9503A2DF1FBDB63E00A4DEE0 /* TabBarVC.swift */; };
-		9503A2E21FBDB65200A4DEE0 /* SideBarSVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9503A2E11FBDB65200A4DEE0 /* SideBarSVC.swift */; };
-		9503A2E41FBDB71200A4DEE0 /* UIRouterP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9503A2E31FBDB71200A4DEE0 /* UIRouterP.swift */; };
-		9503A2E61FBDB75700A4DEE0 /* RouterFP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9503A2E51FBDB75700A4DEE0 /* RouterFP.swift */; };
-		9503A2EE1FBDB81600A4DEE0 /* SideBarVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9503A2ED1FBDB81600A4DEE0 /* SideBarVM.swift */; };
-		9503A2F01FBDB82700A4DEE0 /* TabBarVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9503A2EF1FBDB82700A4DEE0 /* TabBarVM.swift */; };
-		9503A2F41FBDB8AB00A4DEE0 /* BaseVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9503A2F31FBDB8AB00A4DEE0 /* BaseVC.swift */; };
-		9503A2FB1FBDBBDF00A4DEE0 /* Pusher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9503A2FA1FBDBBDF00A4DEE0 /* Pusher.swift */; };
-		9503A2FD1FBDBBF100A4DEE0 /* Modaler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9503A2FC1FBDBBF100A4DEE0 /* Modaler.swift */; };
-		9503A2FF1FBDBBFA00A4DEE0 /* Poper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9503A2FE1FBDBBFA00A4DEE0 /* Poper.swift */; };
-		9503A3011FBDBD3600A4DEE0 /* UIRouterC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9503A3001FBDBD3600A4DEE0 /* UIRouterC.swift */; };
-		9503A3041FBDBD6300A4DEE0 /* UIRouterCP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9503A3031FBDBD6300A4DEE0 /* UIRouterCP.swift */; };
-		9503A3091FBDC0AC00A4DEE0 /* TO.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9503A3081FBDC0AC00A4DEE0 /* TO.swift */; };
-		954E1B871FCF1CDF0093F68F /* Abbreviations.plist in Resources */ = {isa = PBXBuildFile; fileRef = 954E1B861FCF1CDE0093F68F /* Abbreviations.plist */; };
-		954E1B891FCF1F420093F68F /* Titles.plist in Resources */ = {isa = PBXBuildFile; fileRef = 954E1B881FCF1F420093F68F /* Titles.plist */; };
-		954E1B8B1FCF1FFA0093F68F /* ToolBarItems.plist in Resources */ = {isa = PBXBuildFile; fileRef = 954E1B8A1FCF1FFA0093F68F /* ToolBarItems.plist */; };
-		954E1B8D1FCF209A0093F68F /* TabBar.plist in Resources */ = {isa = PBXBuildFile; fileRef = 954E1B8C1FCF209A0093F68F /* TabBar.plist */; };
-		954E1B8F1FCF20E60093F68F /* SideBar.plist in Resources */ = {isa = PBXBuildFile; fileRef = 954E1B8E1FCF20E60093F68F /* SideBar.plist */; };
-		954E1BA31FCF3CCA0093F68F /* NETRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BA21FCF3CCA0093F68F /* NETRouter.swift */; };
-		954E1BA51FCF3CF80093F68F /* NETRouterP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BA41FCF3CF80093F68F /* NETRouterP.swift */; };
-		954E1BA71FCF3D4D0093F68F /* DBRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BA61FCF3D4D0093F68F /* DBRouter.swift */; };
-		954E1BA91FCF3D5A0093F68F /* DBRouterP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BA81FCF3D5A0093F68F /* DBRouterP.swift */; };
-		954E1BAB1FCF3DC60093F68F /* LogicalUnit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BAA1FCF3DC60093F68F /* LogicalUnit.swift */; };
-		954E1BAD1FCF3DF10093F68F /* InputP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BAC1FCF3DF10093F68F /* InputP.swift */; };
-		954E1BAF1FCF3E100093F68F /* OutputP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BAE1FCF3E100093F68F /* OutputP.swift */; };
-		954E1BB21FCF3F490093F68F /* Creator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BB11FCF3F490093F68F /* Creator.swift */; };
-		954E1BB41FCF3F630093F68F /* Updater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BB31FCF3F630093F68F /* Updater.swift */; };
-		954E1BB61FCF3F900093F68F /* Deletor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BB51FCF3F900093F68F /* Deletor.swift */; };
-		954E1BBB1FCF42800093F68F /* NETRouterC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BBA1FCF42800093F68F /* NETRouterC.swift */; };
-		954E1BC31FCF46140093F68F /* Getter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BC21FCF46140093F68F /* Getter.swift */; };
-		954E1BC51FCF465D0093F68F /* DBRouterC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BC41FCF465D0093F68F /* DBRouterC.swift */; };
-		954E1BC71FCF46830093F68F /* DBRouterCP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BC61FCF46830093F68F /* DBRouterCP.swift */; };
-		954E1BCB1FCF46B30093F68F /* Executor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BCA1FCF46B30093F68F /* Executor.swift */; };
-		954E1BCD1FCF46DB0093F68F /* Saver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BCC1FCF46DB0093F68F /* Saver.swift */; };
-		954E1BCF1FCF482A0093F68F /* NETRouterCP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BCE1FCF482A0093F68F /* NETRouterCP.swift */; };
-		954E1BD11FCF49660093F68F /* Request.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BD01FCF49660093F68F /* Request.swift */; };
-		954E1BD41FCF4A7C0093F68F /* Local.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BD31FCF4A7C0093F68F /* Local.swift */; };
-		954E1BD71FCF51700093F68F /* Сleaner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BD61FCF51700093F68F /* Сleaner.swift */; };
-		954E1BEE1FCF537D0093F68F /* SNPKitWayP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BED1FCF537D0093F68F /* SNPKitWayP.swift */; };
-		954E1BF01FCF53F20093F68F /* StoryboardWayP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BEF1FCF53F20093F68F /* StoryboardWayP.swift */; };
-		954E1BF21FCF545E0093F68F /* BaseItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BF11FCF545E0093F68F /* BaseItem.swift */; };
-		954E1BF41FCF552F0093F68F /* BaseCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BF31FCF552F0093F68F /* BaseCell.swift */; };
-		954E1BF81FCF57820093F68F /* NavigationBarV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BF71FCF57820093F68F /* NavigationBarV.swift */; };
-		954E1BFA1FCF58330093F68F /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BF91FCF58330093F68F /* Colors.swift */; };
-		954E1BFE1FCF58970093F68F /* Fonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BFD1FCF58970093F68F /* Fonts.swift */; };
-		954E1C001FCF58E00093F68F /* NavigationBarVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1BFF1FCF58E00093F68F /* NavigationBarVM.swift */; };
-		95E914171FBDE1FE008E825B /* RouterVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E914161FBDE1FE008E825B /* RouterVM.swift */; };
-		95E914191FBDE21C008E825B /* RouterVMP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E914181FBDE21C008E825B /* RouterVMP.swift */; };
-		95E9141B1FBDF12E008E825B /* FirstVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E9141A1FBDF12E008E825B /* FirstVC.swift */; };
-		95E9141D1FBDF13C008E825B /* SecondVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E9141C1FBDF13C008E825B /* SecondVC.swift */; };
-		95E9141F1FBDF14B008E825B /* ThirdVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E9141E1FBDF14B008E825B /* ThirdVC.swift */; };
-		95E914211FBDF1B4008E825B /* FirstVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E914201FBDF1B4008E825B /* FirstVM.swift */; };
-		95E914231FBDF1BE008E825B /* SecondVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E914221FBDF1BE008E825B /* SecondVM.swift */; };
-		95E914251FBDF1CA008E825B /* ThirdVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E914241FBDF1CA008E825B /* ThirdVM.swift */; };
-		95E914271FBDFA4F008E825B /* BaseVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E914261FBDFA4F008E825B /* BaseVM.swift */; };
-		95E914291FBDFAC8008E825B /* BaseVMP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 95E914281FBDFAC8008E825B /* BaseVMP.swift */; };
+		954E1C731FCF62650093F68F /* Abbreviations.plist in Resources */ = {isa = PBXBuildFile; fileRef = 954E1C021FCF62650093F68F /* Abbreviations.plist */; };
+		954E1C741FCF62650093F68F /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C041FCF62650093F68F /* Colors.swift */; };
+		954E1C751FCF62650093F68F /* Fonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C051FCF62650093F68F /* Fonts.swift */; };
+		954E1C761FCF62650093F68F /* SideBar.plist in Resources */ = {isa = PBXBuildFile; fileRef = 954E1C071FCF62650093F68F /* SideBar.plist */; };
+		954E1C771FCF62650093F68F /* TabBar.plist in Resources */ = {isa = PBXBuildFile; fileRef = 954E1C081FCF62650093F68F /* TabBar.plist */; };
+		954E1C781FCF62650093F68F /* Titles.plist in Resources */ = {isa = PBXBuildFile; fileRef = 954E1C091FCF62650093F68F /* Titles.plist */; };
+		954E1C791FCF62650093F68F /* ToolBarItems.plist in Resources */ = {isa = PBXBuildFile; fileRef = 954E1C0A1FCF62650093F68F /* ToolBarItems.plist */; };
+		954E1C7A1FCF62650093F68F /* Local.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C0C1FCF62650093F68F /* Local.swift */; };
+		954E1C7B1FCF62650093F68F /* Request.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C0D1FCF62650093F68F /* Request.swift */; };
+		954E1C7C1FCF62650093F68F /* TO.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C0E1FCF62650093F68F /* TO.swift */; };
+		954E1C7D1FCF62650093F68F /* BaseVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C121FCF62650093F68F /* BaseVC.swift */; };
+		954E1C7E1FCF62650093F68F /* BaseVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C131FCF62650093F68F /* BaseVM.swift */; };
+		954E1C7F1FCF62650093F68F /* BaseVMP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C141FCF62650093F68F /* BaseVMP.swift */; };
+		954E1C801FCF62650093F68F /* RouterVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C161FCF62650093F68F /* RouterVM.swift */; };
+		954E1C811FCF62650093F68F /* RouterVMP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C171FCF62650093F68F /* RouterVMP.swift */; };
+		954E1C821FCF62650093F68F /* InputP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C191FCF62650093F68F /* InputP.swift */; };
+		954E1C831FCF62650093F68F /* LogicalUnit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C1A1FCF62650093F68F /* LogicalUnit.swift */; };
+		954E1C841FCF62650093F68F /* OutputP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C1B1FCF62650093F68F /* OutputP.swift */; };
+		954E1C851FCF62650093F68F /* FirstVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C211FCF62650093F68F /* FirstVC.swift */; };
+		954E1C861FCF62650093F68F /* FirstVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C221FCF62650093F68F /* FirstVM.swift */; };
+		954E1C871FCF62650093F68F /* SecondVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C241FCF62650093F68F /* SecondVC.swift */; };
+		954E1C881FCF62650093F68F /* SecondVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C251FCF62650093F68F /* SecondVM.swift */; };
+		954E1C891FCF62650093F68F /* ThirdVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C271FCF62650093F68F /* ThirdVC.swift */; };
+		954E1C8A1FCF62650093F68F /* ThirdVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C281FCF62650093F68F /* ThirdVM.swift */; };
+		954E1CA31FCF62650093F68F /* NavigationBarV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C5E1FCF62650093F68F /* NavigationBarV.swift */; };
+		954E1CA41FCF62650093F68F /* NavigationBarVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C5F1FCF62650093F68F /* NavigationBarVM.swift */; };
+		954E1CA51FCF62650093F68F /* SideBarSVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C611FCF62650093F68F /* SideBarSVC.swift */; };
+		954E1CA61FCF62650093F68F /* SideBarVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C621FCF62650093F68F /* SideBarVM.swift */; };
+		954E1CA71FCF62650093F68F /* TabBarVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C641FCF62650093F68F /* TabBarVC.swift */; };
+		954E1CA81FCF62650093F68F /* TabBarVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C651FCF62650093F68F /* TabBarVM.swift */; };
+		954E1CA91FCF62650093F68F /* BaseCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C691FCF62650093F68F /* BaseCell.swift */; };
+		954E1CAA1FCF62650093F68F /* BaseItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C6B1FCF62650093F68F /* BaseItem.swift */; };
+		954E1CAB1FCF62650093F68F /* SNPKitWayP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C701FCF62650093F68F /* SNPKitWayP.swift */; };
+		954E1CAC1FCF62650093F68F /* StoryboardWayP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C711FCF62650093F68F /* StoryboardWayP.swift */; };
+		954E1CD81FCF63D20093F68F /* DBRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CB01FCF63D20093F68F /* DBRouter.swift */; };
+		954E1CD91FCF63D20093F68F /* DBRouterP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CB11FCF63D20093F68F /* DBRouterP.swift */; };
+		954E1CDA1FCF63D20093F68F /* Сleaner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CB41FCF63D20093F68F /* Сleaner.swift */; };
+		954E1CDB1FCF63D20093F68F /* DBRouterC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CB51FCF63D20093F68F /* DBRouterC.swift */; };
+		954E1CDC1FCF63D20093F68F /* DBRouterCP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CB61FCF63D20093F68F /* DBRouterCP.swift */; };
+		954E1CDD1FCF63D20093F68F /* Saver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CB81FCF63D20093F68F /* Saver.swift */; };
+		954E1CDE1FCF63D20093F68F /* Selectioner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CBA1FCF63D20093F68F /* Selectioner.swift */; };
+		954E1CDF1FCF63D20093F68F /* NETRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CBD1FCF63D20093F68F /* NETRouter.swift */; };
+		954E1CE01FCF63D20093F68F /* NETRouterP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CBE1FCF63D20093F68F /* NETRouterP.swift */; };
+		954E1CE11FCF63D20093F68F /* Creator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CC11FCF63D20093F68F /* Creator.swift */; };
+		954E1CE21FCF63D20093F68F /* Getter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CC41FCF63D20093F68F /* Getter.swift */; };
+		954E1CE31FCF63D20093F68F /* NETRouterC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CC51FCF63D20093F68F /* NETRouterC.swift */; };
+		954E1CE41FCF63D20093F68F /* NETRouterCP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CC61FCF63D20093F68F /* NETRouterCP.swift */; };
+		954E1CE51FCF63D20093F68F /* Updater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CC81FCF63D20093F68F /* Updater.swift */; };
+		954E1CE61FCF63D20093F68F /* RouterFP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CC91FCF63D20093F68F /* RouterFP.swift */; };
+		954E1CE71FCF63D20093F68F /* RoutersF.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CCA1FCF63D20093F68F /* RoutersF.swift */; };
+		954E1CE81FCF63D20093F68F /* UIRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CCD1FCF63D20093F68F /* UIRouter.swift */; };
+		954E1CE91FCF63D20093F68F /* UIRouterP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CCE1FCF63D20093F68F /* UIRouterP.swift */; };
+		954E1CEA1FCF63D20093F68F /* Modaler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CD11FCF63D20093F68F /* Modaler.swift */; };
+		954E1CEB1FCF63D20093F68F /* Poper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CD31FCF63D20093F68F /* Poper.swift */; };
+		954E1CEC1FCF63D20093F68F /* Pusher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CD51FCF63D20093F68F /* Pusher.swift */; };
+		954E1CED1FCF63D20093F68F /* UIRouterC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CD61FCF63D20093F68F /* UIRouterC.swift */; };
+		954E1CEE1FCF63D20093F68F /* UIRouterCP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CD71FCF63D20093F68F /* UIRouterCP.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -78,64 +77,63 @@
 		9503A2D01FBDB5A000A4DEE0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9503A2D31FBDB5A000A4DEE0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9503A2D51FBDB5A000A4DEE0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9503A2DB1FBDB61500A4DEE0 /* RoutersF.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoutersF.swift; sourceTree = "<group>"; };
-		9503A2DD1FBDB62B00A4DEE0 /* UIRouter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIRouter.swift; sourceTree = "<group>"; };
-		9503A2DF1FBDB63E00A4DEE0 /* TabBarVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabBarVC.swift; sourceTree = "<group>"; };
-		9503A2E11FBDB65200A4DEE0 /* SideBarSVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SideBarSVC.swift; sourceTree = "<group>"; };
-		9503A2E31FBDB71200A4DEE0 /* UIRouterP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIRouterP.swift; sourceTree = "<group>"; };
-		9503A2E51FBDB75700A4DEE0 /* RouterFP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RouterFP.swift; sourceTree = "<group>"; };
-		9503A2ED1FBDB81600A4DEE0 /* SideBarVM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SideBarVM.swift; sourceTree = "<group>"; };
-		9503A2EF1FBDB82700A4DEE0 /* TabBarVM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabBarVM.swift; sourceTree = "<group>"; };
-		9503A2F31FBDB8AB00A4DEE0 /* BaseVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseVC.swift; sourceTree = "<group>"; };
-		9503A2FA1FBDBBDF00A4DEE0 /* Pusher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Pusher.swift; sourceTree = "<group>"; };
-		9503A2FC1FBDBBF100A4DEE0 /* Modaler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Modaler.swift; sourceTree = "<group>"; };
-		9503A2FE1FBDBBFA00A4DEE0 /* Poper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Poper.swift; sourceTree = "<group>"; };
-		9503A3001FBDBD3600A4DEE0 /* UIRouterC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIRouterC.swift; sourceTree = "<group>"; };
-		9503A3031FBDBD6300A4DEE0 /* UIRouterCP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIRouterCP.swift; sourceTree = "<group>"; };
-		9503A3081FBDC0AC00A4DEE0 /* TO.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TO.swift; sourceTree = "<group>"; };
-		954E1B861FCF1CDE0093F68F /* Abbreviations.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Abbreviations.plist; sourceTree = "<group>"; };
-		954E1B881FCF1F420093F68F /* Titles.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Titles.plist; sourceTree = "<group>"; };
-		954E1B8A1FCF1FFA0093F68F /* ToolBarItems.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ToolBarItems.plist; sourceTree = "<group>"; };
-		954E1B8C1FCF209A0093F68F /* TabBar.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = TabBar.plist; sourceTree = "<group>"; };
-		954E1B8E1FCF20E60093F68F /* SideBar.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = SideBar.plist; sourceTree = "<group>"; };
-		954E1BA21FCF3CCA0093F68F /* NETRouter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NETRouter.swift; sourceTree = "<group>"; };
-		954E1BA41FCF3CF80093F68F /* NETRouterP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NETRouterP.swift; sourceTree = "<group>"; };
-		954E1BA61FCF3D4D0093F68F /* DBRouter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DBRouter.swift; sourceTree = "<group>"; };
-		954E1BA81FCF3D5A0093F68F /* DBRouterP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DBRouterP.swift; sourceTree = "<group>"; };
-		954E1BAA1FCF3DC60093F68F /* LogicalUnit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogicalUnit.swift; sourceTree = "<group>"; };
-		954E1BAC1FCF3DF10093F68F /* InputP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InputP.swift; sourceTree = "<group>"; };
-		954E1BAE1FCF3E100093F68F /* OutputP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OutputP.swift; sourceTree = "<group>"; };
-		954E1BB11FCF3F490093F68F /* Creator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Creator.swift; sourceTree = "<group>"; };
-		954E1BB31FCF3F630093F68F /* Updater.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Updater.swift; sourceTree = "<group>"; };
-		954E1BB51FCF3F900093F68F /* Deletor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Deletor.swift; sourceTree = "<group>"; };
-		954E1BBA1FCF42800093F68F /* NETRouterC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NETRouterC.swift; sourceTree = "<group>"; };
-		954E1BC21FCF46140093F68F /* Getter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Getter.swift; sourceTree = "<group>"; };
-		954E1BC41FCF465D0093F68F /* DBRouterC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DBRouterC.swift; sourceTree = "<group>"; };
-		954E1BC61FCF46830093F68F /* DBRouterCP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DBRouterCP.swift; sourceTree = "<group>"; };
-		954E1BCA1FCF46B30093F68F /* Executor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Executor.swift; sourceTree = "<group>"; };
-		954E1BCC1FCF46DB0093F68F /* Saver.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Saver.swift; sourceTree = "<group>"; };
-		954E1BCE1FCF482A0093F68F /* NETRouterCP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NETRouterCP.swift; sourceTree = "<group>"; };
-		954E1BD01FCF49660093F68F /* Request.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Request.swift; sourceTree = "<group>"; };
-		954E1BD31FCF4A7C0093F68F /* Local.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Local.swift; sourceTree = "<group>"; };
-		954E1BD61FCF51700093F68F /* Сleaner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Сleaner.swift"; sourceTree = "<group>"; };
-		954E1BED1FCF537D0093F68F /* SNPKitWayP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SNPKitWayP.swift; sourceTree = "<group>"; };
-		954E1BEF1FCF53F20093F68F /* StoryboardWayP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StoryboardWayP.swift; sourceTree = "<group>"; };
-		954E1BF11FCF545E0093F68F /* BaseItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseItem.swift; sourceTree = "<group>"; };
-		954E1BF31FCF552F0093F68F /* BaseCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseCell.swift; sourceTree = "<group>"; };
-		954E1BF71FCF57820093F68F /* NavigationBarV.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationBarV.swift; sourceTree = "<group>"; };
-		954E1BF91FCF58330093F68F /* Colors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
-		954E1BFD1FCF58970093F68F /* Fonts.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Fonts.swift; sourceTree = "<group>"; };
-		954E1BFF1FCF58E00093F68F /* NavigationBarVM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationBarVM.swift; sourceTree = "<group>"; };
-		95E914161FBDE1FE008E825B /* RouterVM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RouterVM.swift; sourceTree = "<group>"; };
-		95E914181FBDE21C008E825B /* RouterVMP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RouterVMP.swift; sourceTree = "<group>"; };
-		95E9141A1FBDF12E008E825B /* FirstVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstVC.swift; sourceTree = "<group>"; };
-		95E9141C1FBDF13C008E825B /* SecondVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondVC.swift; sourceTree = "<group>"; };
-		95E9141E1FBDF14B008E825B /* ThirdVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdVC.swift; sourceTree = "<group>"; };
-		95E914201FBDF1B4008E825B /* FirstVM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstVM.swift; sourceTree = "<group>"; };
-		95E914221FBDF1BE008E825B /* SecondVM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondVM.swift; sourceTree = "<group>"; };
-		95E914241FBDF1CA008E825B /* ThirdVM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdVM.swift; sourceTree = "<group>"; };
-		95E914261FBDFA4F008E825B /* BaseVM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseVM.swift; sourceTree = "<group>"; };
-		95E914281FBDFAC8008E825B /* BaseVMP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseVMP.swift; sourceTree = "<group>"; };
+		954E1C021FCF62650093F68F /* Abbreviations.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Abbreviations.plist; sourceTree = "<group>"; };
+		954E1C041FCF62650093F68F /* Colors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
+		954E1C051FCF62650093F68F /* Fonts.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Fonts.swift; sourceTree = "<group>"; };
+		954E1C071FCF62650093F68F /* SideBar.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = SideBar.plist; sourceTree = "<group>"; };
+		954E1C081FCF62650093F68F /* TabBar.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = TabBar.plist; sourceTree = "<group>"; };
+		954E1C091FCF62650093F68F /* Titles.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Titles.plist; sourceTree = "<group>"; };
+		954E1C0A1FCF62650093F68F /* ToolBarItems.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ToolBarItems.plist; sourceTree = "<group>"; };
+		954E1C0C1FCF62650093F68F /* Local.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Local.swift; sourceTree = "<group>"; };
+		954E1C0D1FCF62650093F68F /* Request.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Request.swift; sourceTree = "<group>"; };
+		954E1C0E1FCF62650093F68F /* TO.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TO.swift; sourceTree = "<group>"; };
+		954E1C121FCF62650093F68F /* BaseVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseVC.swift; sourceTree = "<group>"; };
+		954E1C131FCF62650093F68F /* BaseVM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseVM.swift; sourceTree = "<group>"; };
+		954E1C141FCF62650093F68F /* BaseVMP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseVMP.swift; sourceTree = "<group>"; };
+		954E1C161FCF62650093F68F /* RouterVM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RouterVM.swift; sourceTree = "<group>"; };
+		954E1C171FCF62650093F68F /* RouterVMP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RouterVMP.swift; sourceTree = "<group>"; };
+		954E1C191FCF62650093F68F /* InputP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InputP.swift; sourceTree = "<group>"; };
+		954E1C1A1FCF62650093F68F /* LogicalUnit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogicalUnit.swift; sourceTree = "<group>"; };
+		954E1C1B1FCF62650093F68F /* OutputP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OutputP.swift; sourceTree = "<group>"; };
+		954E1C211FCF62650093F68F /* FirstVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstVC.swift; sourceTree = "<group>"; };
+		954E1C221FCF62650093F68F /* FirstVM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FirstVM.swift; sourceTree = "<group>"; };
+		954E1C241FCF62650093F68F /* SecondVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondVC.swift; sourceTree = "<group>"; };
+		954E1C251FCF62650093F68F /* SecondVM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondVM.swift; sourceTree = "<group>"; };
+		954E1C271FCF62650093F68F /* ThirdVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdVC.swift; sourceTree = "<group>"; };
+		954E1C281FCF62650093F68F /* ThirdVM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThirdVM.swift; sourceTree = "<group>"; };
+		954E1C5E1FCF62650093F68F /* NavigationBarV.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationBarV.swift; sourceTree = "<group>"; };
+		954E1C5F1FCF62650093F68F /* NavigationBarVM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationBarVM.swift; sourceTree = "<group>"; };
+		954E1C611FCF62650093F68F /* SideBarSVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SideBarSVC.swift; sourceTree = "<group>"; };
+		954E1C621FCF62650093F68F /* SideBarVM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SideBarVM.swift; sourceTree = "<group>"; };
+		954E1C641FCF62650093F68F /* TabBarVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabBarVC.swift; sourceTree = "<group>"; };
+		954E1C651FCF62650093F68F /* TabBarVM.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TabBarVM.swift; sourceTree = "<group>"; };
+		954E1C691FCF62650093F68F /* BaseCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseCell.swift; sourceTree = "<group>"; };
+		954E1C6B1FCF62650093F68F /* BaseItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseItem.swift; sourceTree = "<group>"; };
+		954E1C701FCF62650093F68F /* SNPKitWayP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SNPKitWayP.swift; sourceTree = "<group>"; };
+		954E1C711FCF62650093F68F /* StoryboardWayP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StoryboardWayP.swift; sourceTree = "<group>"; };
+		954E1CB01FCF63D20093F68F /* DBRouter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DBRouter.swift; sourceTree = "<group>"; };
+		954E1CB11FCF63D20093F68F /* DBRouterP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DBRouterP.swift; sourceTree = "<group>"; };
+		954E1CB41FCF63D20093F68F /* Сleaner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Сleaner.swift"; sourceTree = "<group>"; };
+		954E1CB51FCF63D20093F68F /* DBRouterC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DBRouterC.swift; sourceTree = "<group>"; };
+		954E1CB61FCF63D20093F68F /* DBRouterCP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DBRouterCP.swift; sourceTree = "<group>"; };
+		954E1CB81FCF63D20093F68F /* Saver.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Saver.swift; sourceTree = "<group>"; };
+		954E1CBA1FCF63D20093F68F /* Selectioner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Selectioner.swift; sourceTree = "<group>"; };
+		954E1CBD1FCF63D20093F68F /* NETRouter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NETRouter.swift; sourceTree = "<group>"; };
+		954E1CBE1FCF63D20093F68F /* NETRouterP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NETRouterP.swift; sourceTree = "<group>"; };
+		954E1CC11FCF63D20093F68F /* Creator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Creator.swift; sourceTree = "<group>"; };
+		954E1CC41FCF63D20093F68F /* Getter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Getter.swift; sourceTree = "<group>"; };
+		954E1CC51FCF63D20093F68F /* NETRouterC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NETRouterC.swift; sourceTree = "<group>"; };
+		954E1CC61FCF63D20093F68F /* NETRouterCP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NETRouterCP.swift; sourceTree = "<group>"; };
+		954E1CC81FCF63D20093F68F /* Updater.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Updater.swift; sourceTree = "<group>"; };
+		954E1CC91FCF63D20093F68F /* RouterFP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RouterFP.swift; sourceTree = "<group>"; };
+		954E1CCA1FCF63D20093F68F /* RoutersF.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoutersF.swift; sourceTree = "<group>"; };
+		954E1CCD1FCF63D20093F68F /* UIRouter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIRouter.swift; sourceTree = "<group>"; };
+		954E1CCE1FCF63D20093F68F /* UIRouterP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIRouterP.swift; sourceTree = "<group>"; };
+		954E1CD11FCF63D20093F68F /* Modaler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Modaler.swift; sourceTree = "<group>"; };
+		954E1CD31FCF63D20093F68F /* Poper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Poper.swift; sourceTree = "<group>"; };
+		954E1CD51FCF63D20093F68F /* Pusher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Pusher.swift; sourceTree = "<group>"; };
+		954E1CD61FCF63D20093F68F /* UIRouterC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIRouterC.swift; sourceTree = "<group>"; };
+		954E1CD71FCF63D20093F68F /* UIRouterCP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIRouterCP.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -168,8 +166,8 @@
 		9503A2C81FBDB5A000A4DEE0 /* AllarRouter */ = {
 			isa = PBXGroup;
 			children = (
-				954E1B901FCF21470093F68F /* Modules */,
-				9503A3071FBDC0A100A4DEE0 /* EnumsConstantsAndPlists */,
+				954E1C011FCF62650093F68F /* EnumsConstantsAndPlists */,
+				954E1C0F1FCF62650093F68F /* Modules */,
 				9503A2C91FBDB5A000A4DEE0 /* AppDelegate.swift */,
 				9503A2CD1FBDB5A000A4DEE0 /* Main.storyboard */,
 				9503A2D01FBDB5A000A4DEE0 /* Assets.xcassets */,
@@ -179,516 +177,507 @@
 			path = AllarRouter;
 			sourceTree = "<group>";
 		};
-		9503A3071FBDC0A100A4DEE0 /* EnumsConstantsAndPlists */ = {
+		954E1C011FCF62650093F68F /* EnumsConstantsAndPlists */ = {
 			isa = PBXGroup;
 			children = (
-				954E1B861FCF1CDE0093F68F /* Abbreviations.plist */,
-				954E1BFB1FCF58610093F68F /* Names */,
-				954E1BD21FCF4A160093F68F /* Pathes */,
-				954E1BFC1FCF587C0093F68F /* Enums */,
+				954E1C021FCF62650093F68F /* Abbreviations.plist */,
+				954E1C031FCF62650093F68F /* Enums */,
+				954E1C061FCF62650093F68F /* Names */,
+				954E1C0B1FCF62650093F68F /* Pathes */,
 			);
-			name = EnumsConstantsAndPlists;
+			path = EnumsConstantsAndPlists;
 			sourceTree = "<group>";
 		};
-		954E1B901FCF21470093F68F /* Modules */ = {
+		954E1C031FCF62650093F68F /* Enums */ = {
 			isa = PBXGroup;
 			children = (
-				954E1BDF1FCF52450093F68F /* Models */,
-				954E1BDE1FCF52170093F68F /* Entities */,
-				954E1BDD1FCF52080093F68F /* UI */,
-				954E1B941FCF217C0093F68F /* Router */,
-				954E1B931FCF21690093F68F /* Flow */,
-				954E1B911FCF21520093F68F /* Base */,
+				954E1C041FCF62650093F68F /* Colors.swift */,
+				954E1C051FCF62650093F68F /* Fonts.swift */,
 			);
-			name = Modules;
+			path = Enums;
 			sourceTree = "<group>";
 		};
-		954E1B911FCF21520093F68F /* Base */ = {
+		954E1C061FCF62650093F68F /* Names */ = {
 			isa = PBXGroup;
 			children = (
-				954E1BBD1FCF43AE0093F68F /* ZerroLevel */,
-				954E1BBE1FCF44150093F68F /* FirstLevel */,
-				954E1BBF1FCF44540093F68F /* SecondLevel */,
+				954E1C071FCF62650093F68F /* SideBar.plist */,
+				954E1C081FCF62650093F68F /* TabBar.plist */,
+				954E1C091FCF62650093F68F /* Titles.plist */,
+				954E1C0A1FCF62650093F68F /* ToolBarItems.plist */,
 			);
-			name = Base;
+			path = Names;
 			sourceTree = "<group>";
 		};
-		954E1B921FCF215A0093F68F /* Inherits */ = {
+		954E1C0B1FCF62650093F68F /* Pathes */ = {
 			isa = PBXGroup;
 			children = (
-				9503A3001FBDBD3600A4DEE0 /* UIRouterC.swift */,
-				9503A3031FBDBD6300A4DEE0 /* UIRouterCP.swift */,
-				954E1B9C1FCF23890093F68F /* Modaler */,
-				954E1B9B1FCF23820093F68F /* Poper */,
-				954E1B9A1FCF23790093F68F /* Pusher */,
+				954E1C0C1FCF62650093F68F /* Local.swift */,
+				954E1C0D1FCF62650093F68F /* Request.swift */,
+				954E1C0E1FCF62650093F68F /* TO.swift */,
 			);
-			name = Inherits;
+			path = Pathes;
 			sourceTree = "<group>";
 		};
-		954E1B931FCF21690093F68F /* Flow */ = {
+		954E1C0F1FCF62650093F68F /* Modules */ = {
 			isa = PBXGroup;
 			children = (
-				954E1B971FCF22530093F68F /* Third */,
-				954E1B961FCF224D0093F68F /* Second */,
-				954E1B951FCF22440093F68F /* First */,
+				954E1C101FCF62650093F68F /* Base */,
+				954E1C1C1FCF62650093F68F /* Entities */,
+				954E1C1F1FCF62650093F68F /* Flow */,
+				954E1C291FCF62650093F68F /* Models */,
+				954E1C5A1FCF62650093F68F /* UI */,
 			);
-			name = Flow;
+			path = Modules;
 			sourceTree = "<group>";
 		};
-		954E1B941FCF217C0093F68F /* Router */ = {
+		954E1C101FCF62650093F68F /* Base */ = {
 			isa = PBXGroup;
 			children = (
-				954E1B9E1FCF24460093F68F /* Abstract */,
+				954E1C111FCF62650093F68F /* FirstLevel */,
+				954E1C151FCF62650093F68F /* SecondLevel */,
+				954E1C181FCF62650093F68F /* ZerroLevel */,
 			);
-			name = Router;
+			path = Base;
 			sourceTree = "<group>";
 		};
-		954E1B951FCF22440093F68F /* First */ = {
+		954E1C111FCF62650093F68F /* FirstLevel */ = {
 			isa = PBXGroup;
 			children = (
-				95E914201FBDF1B4008E825B /* FirstVM.swift */,
-				95E9141A1FBDF12E008E825B /* FirstVC.swift */,
+				954E1C121FCF62650093F68F /* BaseVC.swift */,
+				954E1C131FCF62650093F68F /* BaseVM.swift */,
+				954E1C141FCF62650093F68F /* BaseVMP.swift */,
 			);
-			name = First;
+			path = FirstLevel;
 			sourceTree = "<group>";
 		};
-		954E1B961FCF224D0093F68F /* Second */ = {
+		954E1C151FCF62650093F68F /* SecondLevel */ = {
 			isa = PBXGroup;
 			children = (
-				95E9141C1FBDF13C008E825B /* SecondVC.swift */,
-				95E914221FBDF1BE008E825B /* SecondVM.swift */,
+				954E1C161FCF62650093F68F /* RouterVM.swift */,
+				954E1C171FCF62650093F68F /* RouterVMP.swift */,
 			);
-			name = Second;
+			path = SecondLevel;
 			sourceTree = "<group>";
 		};
-		954E1B971FCF22530093F68F /* Third */ = {
+		954E1C181FCF62650093F68F /* ZerroLevel */ = {
 			isa = PBXGroup;
 			children = (
-				95E914241FBDF1CA008E825B /* ThirdVM.swift */,
-				95E9141E1FBDF14B008E825B /* ThirdVC.swift */,
+				954E1C191FCF62650093F68F /* InputP.swift */,
+				954E1C1A1FCF62650093F68F /* LogicalUnit.swift */,
+				954E1C1B1FCF62650093F68F /* OutputP.swift */,
 			);
-			name = Third;
+			path = ZerroLevel;
 			sourceTree = "<group>";
 		};
-		954E1B981FCF22880093F68F /* SideBar */ = {
+		954E1C1C1FCF62650093F68F /* Entities */ = {
 			isa = PBXGroup;
 			children = (
-				9503A2ED1FBDB81600A4DEE0 /* SideBarVM.swift */,
-				9503A2E11FBDB65200A4DEE0 /* SideBarSVC.swift */,
+				954E1C1D1FCF62650093F68F /* DB */,
+				954E1C1E1FCF62650093F68F /* Files */,
 			);
-			name = SideBar;
+			path = Entities;
 			sourceTree = "<group>";
 		};
-		954E1B991FCF22A80093F68F /* TabBar */ = {
+		954E1C1D1FCF62650093F68F /* DB */ = {
 			isa = PBXGroup;
 			children = (
-				9503A2EF1FBDB82700A4DEE0 /* TabBarVM.swift */,
-				9503A2DF1FBDB63E00A4DEE0 /* TabBarVC.swift */,
 			);
-			name = TabBar;
+			path = DB;
 			sourceTree = "<group>";
 		};
-		954E1B9A1FCF23790093F68F /* Pusher */ = {
+		954E1C1E1FCF62650093F68F /* Files */ = {
 			isa = PBXGroup;
 			children = (
-				9503A2FA1FBDBBDF00A4DEE0 /* Pusher.swift */,
 			);
-			name = Pusher;
+			path = Files;
 			sourceTree = "<group>";
 		};
-		954E1B9B1FCF23820093F68F /* Poper */ = {
+		954E1C1F1FCF62650093F68F /* Flow */ = {
 			isa = PBXGroup;
 			children = (
-				9503A2FE1FBDBBFA00A4DEE0 /* Poper.swift */,
+				954E1C201FCF62650093F68F /* First */,
+				954E1C231FCF62650093F68F /* Second */,
+				954E1C261FCF62650093F68F /* Third */,
 			);
-			name = Poper;
+			path = Flow;
 			sourceTree = "<group>";
 		};
-		954E1B9C1FCF23890093F68F /* Modaler */ = {
+		954E1C201FCF62650093F68F /* First */ = {
 			isa = PBXGroup;
 			children = (
-				9503A2FC1FBDBBF100A4DEE0 /* Modaler.swift */,
+				954E1C211FCF62650093F68F /* FirstVC.swift */,
+				954E1C221FCF62650093F68F /* FirstVM.swift */,
 			);
-			name = Modaler;
+			path = First;
 			sourceTree = "<group>";
 		};
-		954E1B9D1FCF23C30093F68F /* Components */ = {
+		954E1C231FCF62650093F68F /* Second */ = {
 			isa = PBXGroup;
 			children = (
-				954E1BEC1FCF53200093F68F /* Scrollable */,
-				954E1BEB1FCF53060093F68F /* Bars */,
-				954E1BE91FCF52E90093F68F /* Text */,
+				954E1C241FCF62650093F68F /* SecondVC.swift */,
+				954E1C251FCF62650093F68F /* SecondVM.swift */,
 			);
-			name = Components;
+			path = Second;
 			sourceTree = "<group>";
 		};
-		954E1B9E1FCF24460093F68F /* Abstract */ = {
+		954E1C261FCF62650093F68F /* Third */ = {
 			isa = PBXGroup;
 			children = (
-				9503A2DB1FBDB61500A4DEE0 /* RoutersF.swift */,
-				9503A2E51FBDB75700A4DEE0 /* RouterFP.swift */,
-				954E1BA11FCF3C500093F68F /* NETRouter */,
-				954E1BA01FCF3C450093F68F /* DBRouter */,
-				954E1B9F1FCF3C270093F68F /* UIRouter */,
+				954E1C271FCF62650093F68F /* ThirdVC.swift */,
+				954E1C281FCF62650093F68F /* ThirdVM.swift */,
 			);
-			name = Abstract;
+			path = Third;
 			sourceTree = "<group>";
 		};
-		954E1B9F1FCF3C270093F68F /* UIRouter */ = {
+		954E1C291FCF62650093F68F /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				9503A2DD1FBDB62B00A4DEE0 /* UIRouter.swift */,
-				9503A2E31FBDB71200A4DEE0 /* UIRouterP.swift */,
-				954E1B921FCF215A0093F68F /* Inherits */,
+				954E1CAD1FCF63D20093F68F /* Router */,
+				954E1C2A1FCF62650093F68F /* Categories */,
+				954E1C2B1FCF62650093F68F /* Oprerations */,
+				954E1C2C1FCF62650093F68F /* Patterns */,
+				954E1C2D1FCF62650093F68F /* Services */,
 			);
-			name = UIRouter;
+			path = Models;
 			sourceTree = "<group>";
 		};
-		954E1BA01FCF3C450093F68F /* DBRouter */ = {
+		954E1C2A1FCF62650093F68F /* Categories */ = {
 			isa = PBXGroup;
 			children = (
-				954E1BA61FCF3D4D0093F68F /* DBRouter.swift */,
-				954E1BA81FCF3D5A0093F68F /* DBRouterP.swift */,
-				954E1BC01FCF44FA0093F68F /* Inherits */,
 			);
-			name = DBRouter;
+			path = Categories;
 			sourceTree = "<group>";
 		};
-		954E1BA11FCF3C500093F68F /* NETRouter */ = {
+		954E1C2B1FCF62650093F68F /* Oprerations */ = {
 			isa = PBXGroup;
 			children = (
-				954E1BBC1FCF42DC0093F68F /* Abstract */,
-				954E1BB01FCF3F300093F68F /* Inherits */,
 			);
-			name = NETRouter;
+			path = Oprerations;
 			sourceTree = "<group>";
 		};
-		954E1BB01FCF3F300093F68F /* Inherits */ = {
+		954E1C2C1FCF62650093F68F /* Patterns */ = {
 			isa = PBXGroup;
 			children = (
-				954E1BBA1FCF42800093F68F /* NETRouterC.swift */,
-				954E1BCE1FCF482A0093F68F /* NETRouterCP.swift */,
-				954E1BC11FCF45F80093F68F /* Getter */,
-				954E1BB91FCF42650093F68F /* Deleter */,
-				954E1BB81FCF425C0093F68F /* Updater */,
-				954E1BB71FCF42510093F68F /* Creator */,
 			);
-			name = Inherits;
+			path = Patterns;
 			sourceTree = "<group>";
 		};
-		954E1BB71FCF42510093F68F /* Creator */ = {
+		954E1C2D1FCF62650093F68F /* Services */ = {
 			isa = PBXGroup;
 			children = (
-				954E1BB11FCF3F490093F68F /* Creator.swift */,
 			);
-			name = Creator;
+			path = Services;
 			sourceTree = "<group>";
 		};
-		954E1BB81FCF425C0093F68F /* Updater */ = {
+		954E1C5A1FCF62650093F68F /* UI */ = {
 			isa = PBXGroup;
 			children = (
-				954E1BB31FCF3F630093F68F /* Updater.swift */,
+				954E1C5B1FCF62650093F68F /* Components */,
+				954E1C701FCF62650093F68F /* SNPKitWayP.swift */,
+				954E1C711FCF62650093F68F /* StoryboardWayP.swift */,
+				954E1C721FCF62650093F68F /* Views */,
 			);
-			name = Updater;
+			path = UI;
 			sourceTree = "<group>";
 		};
-		954E1BB91FCF42650093F68F /* Deleter */ = {
+		954E1C5B1FCF62650093F68F /* Components */ = {
 			isa = PBXGroup;
 			children = (
-				954E1BB51FCF3F900093F68F /* Deletor.swift */,
+				954E1C5C1FCF62650093F68F /* Bars */,
+				954E1C671FCF62650093F68F /* Scollable */,
+				954E1C6C1FCF62650093F68F /* Text */,
 			);
-			name = Deleter;
+			path = Components;
 			sourceTree = "<group>";
 		};
-		954E1BBC1FCF42DC0093F68F /* Abstract */ = {
+		954E1C5C1FCF62650093F68F /* Bars */ = {
 			isa = PBXGroup;
 			children = (
-				954E1BA21FCF3CCA0093F68F /* NETRouter.swift */,
-				954E1BA41FCF3CF80093F68F /* NETRouterP.swift */,
+				954E1C5D1FCF62650093F68F /* NavigationBar */,
+				954E1C601FCF62650093F68F /* SideBar */,
+				954E1C631FCF62650093F68F /* Tabbar */,
+				954E1C661FCF62650093F68F /* Toolbar */,
 			);
-			name = Abstract;
+			path = Bars;
 			sourceTree = "<group>";
 		};
-		954E1BBD1FCF43AE0093F68F /* ZerroLevel */ = {
+		954E1C5D1FCF62650093F68F /* NavigationBar */ = {
 			isa = PBXGroup;
 			children = (
-				954E1BAC1FCF3DF10093F68F /* InputP.swift */,
-				954E1BAA1FCF3DC60093F68F /* LogicalUnit.swift */,
-				954E1BAE1FCF3E100093F68F /* OutputP.swift */,
+				954E1C5E1FCF62650093F68F /* NavigationBarV.swift */,
+				954E1C5F1FCF62650093F68F /* NavigationBarVM.swift */,
 			);
-			name = ZerroLevel;
+			path = NavigationBar;
 			sourceTree = "<group>";
 		};
-		954E1BBE1FCF44150093F68F /* FirstLevel */ = {
+		954E1C601FCF62650093F68F /* SideBar */ = {
 			isa = PBXGroup;
 			children = (
-				95E914281FBDFAC8008E825B /* BaseVMP.swift */,
-				9503A2F31FBDB8AB00A4DEE0 /* BaseVC.swift */,
-				95E914261FBDFA4F008E825B /* BaseVM.swift */,
+				954E1C611FCF62650093F68F /* SideBarSVC.swift */,
+				954E1C621FCF62650093F68F /* SideBarVM.swift */,
 			);
-			name = FirstLevel;
+			path = SideBar;
 			sourceTree = "<group>";
 		};
-		954E1BBF1FCF44540093F68F /* SecondLevel */ = {
+		954E1C631FCF62650093F68F /* Tabbar */ = {
 			isa = PBXGroup;
 			children = (
-				95E914161FBDE1FE008E825B /* RouterVM.swift */,
-				95E914181FBDE21C008E825B /* RouterVMP.swift */,
+				954E1C641FCF62650093F68F /* TabBarVC.swift */,
+				954E1C651FCF62650093F68F /* TabBarVM.swift */,
 			);
-			name = SecondLevel;
+			path = Tabbar;
 			sourceTree = "<group>";
 		};
-		954E1BC01FCF44FA0093F68F /* Inherits */ = {
+		954E1C661FCF62650093F68F /* Toolbar */ = {
 			isa = PBXGroup;
 			children = (
-				954E1BC41FCF465D0093F68F /* DBRouterC.swift */,
-				954E1BC61FCF46830093F68F /* DBRouterCP.swift */,
-				954E1BD51FCF51620093F68F /* Cleaner */,
-				954E1BC91FCF46950093F68F /* Executor */,
-				954E1BC81FCF46920093F68F /* Saver */,
 			);
-			name = Inherits;
+			path = Toolbar;
 			sourceTree = "<group>";
 		};
-		954E1BC11FCF45F80093F68F /* Getter */ = {
+		954E1C671FCF62650093F68F /* Scollable */ = {
 			isa = PBXGroup;
 			children = (
-				954E1BC21FCF46140093F68F /* Getter.swift */,
+				954E1C681FCF62650093F68F /* Cell */,
+				954E1C6A1FCF62650093F68F /* Item */,
 			);
-			name = Getter;
+			path = Scollable;
 			sourceTree = "<group>";
 		};
-		954E1BC81FCF46920093F68F /* Saver */ = {
+		954E1C681FCF62650093F68F /* Cell */ = {
 			isa = PBXGroup;
 			children = (
-				954E1BCC1FCF46DB0093F68F /* Saver.swift */,
+				954E1C691FCF62650093F68F /* BaseCell.swift */,
 			);
-			name = Saver;
+			path = Cell;
 			sourceTree = "<group>";
 		};
-		954E1BC91FCF46950093F68F /* Executor */ = {
+		954E1C6A1FCF62650093F68F /* Item */ = {
 			isa = PBXGroup;
 			children = (
-				954E1BCA1FCF46B30093F68F /* Executor.swift */,
+				954E1C6B1FCF62650093F68F /* BaseItem.swift */,
 			);
-			name = Executor;
+			path = Item;
 			sourceTree = "<group>";
 		};
-		954E1BD21FCF4A160093F68F /* Pathes */ = {
+		954E1C6C1FCF62650093F68F /* Text */ = {
 			isa = PBXGroup;
 			children = (
-				9503A3081FBDC0AC00A4DEE0 /* TO.swift */,
-				954E1BD01FCF49660093F68F /* Request.swift */,
-				954E1BD31FCF4A7C0093F68F /* Local.swift */,
+				954E1C6D1FCF62650093F68F /* Label */,
+				954E1C6E1FCF62650093F68F /* TextField */,
+				954E1C6F1FCF62650093F68F /* TextView */,
 			);
-			name = Pathes;
+			path = Text;
 			sourceTree = "<group>";
 		};
-		954E1BD51FCF51620093F68F /* Cleaner */ = {
+		954E1C6D1FCF62650093F68F /* Label */ = {
 			isa = PBXGroup;
 			children = (
-				954E1BD61FCF51700093F68F /* Сleaner.swift */,
 			);
-			name = Cleaner;
+			path = Label;
 			sourceTree = "<group>";
 		};
-		954E1BD91FCF51D30093F68F /* NavigationBar */ = {
+		954E1C6E1FCF62650093F68F /* TextField */ = {
 			isa = PBXGroup;
 			children = (
-				954E1BF71FCF57820093F68F /* NavigationBarV.swift */,
-				954E1BFF1FCF58E00093F68F /* NavigationBarVM.swift */,
 			);
-			name = NavigationBar;
+			path = TextField;
 			sourceTree = "<group>";
 		};
-		954E1BDA1FCF51DD0093F68F /* Cell */ = {
+		954E1C6F1FCF62650093F68F /* TextView */ = {
 			isa = PBXGroup;
 			children = (
-				954E1BF31FCF552F0093F68F /* BaseCell.swift */,
 			);
-			name = Cell;
+			path = TextView;
 			sourceTree = "<group>";
 		};
-		954E1BDB1FCF51E50093F68F /* Item */ = {
+		954E1C721FCF62650093F68F /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				954E1BF11FCF545E0093F68F /* BaseItem.swift */,
 			);
-			name = Item;
+			path = Views;
 			sourceTree = "<group>";
 		};
-		954E1BDC1FCF51EF0093F68F /* Toolbar */ = {
+		954E1CAD1FCF63D20093F68F /* Router */ = {
 			isa = PBXGroup;
 			children = (
+				954E1CC91FCF63D20093F68F /* RouterFP.swift */,
+				954E1CCA1FCF63D20093F68F /* RoutersF.swift */,
+				954E1CAE1FCF63D20093F68F /* DBRouter */,
+				954E1CBB1FCF63D20093F68F /* NETRouter */,
+				954E1CCB1FCF63D20093F68F /* UIRouter */,
 			);
-			name = Toolbar;
+			path = Router;
 			sourceTree = "<group>";
 		};
-		954E1BDD1FCF52080093F68F /* UI */ = {
+		954E1CAE1FCF63D20093F68F /* DBRouter */ = {
 			isa = PBXGroup;
 			children = (
-				954E1BEF1FCF53F20093F68F /* StoryboardWayP.swift */,
-				954E1BED1FCF537D0093F68F /* SNPKitWayP.swift */,
-				954E1B9D1FCF23C30093F68F /* Components */,
-				954E1BE61FCF52B80093F68F /* Views */,
+				954E1CAF1FCF63D20093F68F /* Abstract */,
+				954E1CB21FCF63D20093F68F /* Inherits */,
 			);
-			name = UI;
+			path = DBRouter;
 			sourceTree = "<group>";
 		};
-		954E1BDE1FCF52170093F68F /* Entities */ = {
+		954E1CAF1FCF63D20093F68F /* Abstract */ = {
 			isa = PBXGroup;
 			children = (
-				954E1BF61FCF57570093F68F /* File */,
-				954E1BF51FCF57500093F68F /* DB */,
+				954E1CB01FCF63D20093F68F /* DBRouter.swift */,
+				954E1CB11FCF63D20093F68F /* DBRouterP.swift */,
 			);
-			name = Entities;
+			path = Abstract;
 			sourceTree = "<group>";
 		};
-		954E1BDF1FCF52450093F68F /* Models */ = {
+		954E1CB21FCF63D20093F68F /* Inherits */ = {
 			isa = PBXGroup;
 			children = (
-				954E1BE31FCF528C0093F68F /* Operations */,
-				954E1BE21FCF52770093F68F /* Services */,
-				954E1BE11FCF52580093F68F /* Patterns */,
-				954E1BE01FCF524C0093F68F /* Categories */,
+				954E1CB51FCF63D20093F68F /* DBRouterC.swift */,
+				954E1CB61FCF63D20093F68F /* DBRouterCP.swift */,
+				954E1CB31FCF63D20093F68F /* Cleaner */,
+				954E1CB71FCF63D20093F68F /* Saver */,
+				954E1CB91FCF63D20093F68F /* Selectioner */,
 			);
-			name = Models;
+			path = Inherits;
 			sourceTree = "<group>";
 		};
-		954E1BE01FCF524C0093F68F /* Categories */ = {
+		954E1CB31FCF63D20093F68F /* Cleaner */ = {
 			isa = PBXGroup;
 			children = (
+				954E1CB41FCF63D20093F68F /* Сleaner.swift */,
 			);
-			name = Categories;
+			path = Cleaner;
 			sourceTree = "<group>";
 		};
-		954E1BE11FCF52580093F68F /* Patterns */ = {
+		954E1CB71FCF63D20093F68F /* Saver */ = {
 			isa = PBXGroup;
 			children = (
+				954E1CB81FCF63D20093F68F /* Saver.swift */,
 			);
-			name = Patterns;
+			path = Saver;
 			sourceTree = "<group>";
 		};
-		954E1BE21FCF52770093F68F /* Services */ = {
+		954E1CB91FCF63D20093F68F /* Selectioner */ = {
 			isa = PBXGroup;
 			children = (
+				954E1CBA1FCF63D20093F68F /* Selectioner.swift */,
 			);
-			name = Services;
+			path = Selectioner;
 			sourceTree = "<group>";
 		};
-		954E1BE31FCF528C0093F68F /* Operations */ = {
+		954E1CBB1FCF63D20093F68F /* NETRouter */ = {
 			isa = PBXGroup;
 			children = (
-				954E1BE51FCF52A40093F68F /* Server */,
-				954E1BE41FCF529B0093F68F /* DB */,
+				954E1CBC1FCF63D20093F68F /* Abstract */,
+				954E1CBF1FCF63D20093F68F /* Inherits */,
 			);
-			name = Operations;
+			path = NETRouter;
 			sourceTree = "<group>";
 		};
-		954E1BE41FCF529B0093F68F /* DB */ = {
+		954E1CBC1FCF63D20093F68F /* Abstract */ = {
 			isa = PBXGroup;
 			children = (
+				954E1CBD1FCF63D20093F68F /* NETRouter.swift */,
+				954E1CBE1FCF63D20093F68F /* NETRouterP.swift */,
 			);
-			name = DB;
+			path = Abstract;
 			sourceTree = "<group>";
 		};
-		954E1BE51FCF52A40093F68F /* Server */ = {
+		954E1CBF1FCF63D20093F68F /* Inherits */ = {
 			isa = PBXGroup;
 			children = (
+				954E1CC51FCF63D20093F68F /* NETRouterC.swift */,
+				954E1CC61FCF63D20093F68F /* NETRouterCP.swift */,
+				954E1CC01FCF63D20093F68F /* Creator */,
+				954E1CC21FCF63D20093F68F /* Deletor */,
+				954E1CC31FCF63D20093F68F /* Getter */,
+				954E1CC71FCF63D20093F68F /* Updater */,
 			);
-			name = Server;
+			path = Inherits;
 			sourceTree = "<group>";
 		};
-		954E1BE61FCF52B80093F68F /* Views */ = {
+		954E1CC01FCF63D20093F68F /* Creator */ = {
 			isa = PBXGroup;
 			children = (
+				954E1CC11FCF63D20093F68F /* Creator.swift */,
 			);
-			name = Views;
+			path = Creator;
 			sourceTree = "<group>";
 		};
-		954E1BE71FCF52D60093F68F /* Label */ = {
+		954E1CC21FCF63D20093F68F /* Deletor */ = {
 			isa = PBXGroup;
 			children = (
 			);
-			name = Label;
+			path = Deletor;
 			sourceTree = "<group>";
 		};
-		954E1BE81FCF52DD0093F68F /* TextField */ = {
+		954E1CC31FCF63D20093F68F /* Getter */ = {
 			isa = PBXGroup;
 			children = (
+				954E1CC41FCF63D20093F68F /* Getter.swift */,
 			);
-			name = TextField;
+			path = Getter;
 			sourceTree = "<group>";
 		};
-		954E1BE91FCF52E90093F68F /* Text */ = {
+		954E1CC71FCF63D20093F68F /* Updater */ = {
 			isa = PBXGroup;
 			children = (
-				954E1BEA1FCF52F60093F68F /* TextView */,
-				954E1BE71FCF52D60093F68F /* Label */,
-				954E1BE81FCF52DD0093F68F /* TextField */,
+				954E1CC81FCF63D20093F68F /* Updater.swift */,
 			);
-			name = Text;
+			path = Updater;
 			sourceTree = "<group>";
 		};
-		954E1BEA1FCF52F60093F68F /* TextView */ = {
+		954E1CCB1FCF63D20093F68F /* UIRouter */ = {
 			isa = PBXGroup;
 			children = (
+				954E1CCC1FCF63D20093F68F /* Abstract */,
+				954E1CCF1FCF63D20093F68F /* Inherits */,
 			);
-			name = TextView;
+			path = UIRouter;
 			sourceTree = "<group>";
 		};
-		954E1BEB1FCF53060093F68F /* Bars */ = {
+		954E1CCC1FCF63D20093F68F /* Abstract */ = {
 			isa = PBXGroup;
 			children = (
-				954E1BDC1FCF51EF0093F68F /* Toolbar */,
-				954E1BD91FCF51D30093F68F /* NavigationBar */,
-				954E1B981FCF22880093F68F /* SideBar */,
-				954E1B991FCF22A80093F68F /* TabBar */,
+				954E1CCD1FCF63D20093F68F /* UIRouter.swift */,
+				954E1CCE1FCF63D20093F68F /* UIRouterP.swift */,
 			);
-			name = Bars;
+			path = Abstract;
 			sourceTree = "<group>";
 		};
-		954E1BEC1FCF53200093F68F /* Scrollable */ = {
+		954E1CCF1FCF63D20093F68F /* Inherits */ = {
 			isa = PBXGroup;
 			children = (
-				954E1BDB1FCF51E50093F68F /* Item */,
-				954E1BDA1FCF51DD0093F68F /* Cell */,
+				954E1CD61FCF63D20093F68F /* UIRouterC.swift */,
+				954E1CD71FCF63D20093F68F /* UIRouterCP.swift */,
+				954E1CD01FCF63D20093F68F /* Modaler */,
+				954E1CD21FCF63D20093F68F /* Poper */,
+				954E1CD41FCF63D20093F68F /* Pusher */,
 			);
-			name = Scrollable;
+			path = Inherits;
 			sourceTree = "<group>";
 		};
-		954E1BF51FCF57500093F68F /* DB */ = {
+		954E1CD01FCF63D20093F68F /* Modaler */ = {
 			isa = PBXGroup;
 			children = (
+				954E1CD11FCF63D20093F68F /* Modaler.swift */,
 			);
-			name = DB;
+			path = Modaler;
 			sourceTree = "<group>";
 		};
-		954E1BF61FCF57570093F68F /* File */ = {
+		954E1CD21FCF63D20093F68F /* Poper */ = {
 			isa = PBXGroup;
 			children = (
+				954E1CD31FCF63D20093F68F /* Poper.swift */,
 			);
-			name = File;
+			path = Poper;
 			sourceTree = "<group>";
 		};
-		954E1BFB1FCF58610093F68F /* Names */ = {
+		954E1CD41FCF63D20093F68F /* Pusher */ = {
 			isa = PBXGroup;
 			children = (
-				954E1B881FCF1F420093F68F /* Titles.plist */,
-				954E1B8A1FCF1FFA0093F68F /* ToolBarItems.plist */,
-				954E1B8C1FCF209A0093F68F /* TabBar.plist */,
-				954E1B8E1FCF20E60093F68F /* SideBar.plist */,
+				954E1CD51FCF63D20093F68F /* Pusher.swift */,
 			);
-			name = Names;
-			sourceTree = "<group>";
-		};
-		954E1BFC1FCF587C0093F68F /* Enums */ = {
-			isa = PBXGroup;
-			children = (
-				954E1BFD1FCF58970093F68F /* Fonts.swift */,
-				954E1BF91FCF58330093F68F /* Colors.swift */,
-			);
-			name = Enums;
+			path = Pusher;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -751,13 +740,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				954E1B891FCF1F420093F68F /* Titles.plist in Resources */,
-				954E1B8F1FCF20E60093F68F /* SideBar.plist in Resources */,
-				954E1B8B1FCF1FFA0093F68F /* ToolBarItems.plist in Resources */,
-				954E1B8D1FCF209A0093F68F /* TabBar.plist in Resources */,
+				954E1C781FCF62650093F68F /* Titles.plist in Resources */,
+				954E1C791FCF62650093F68F /* ToolBarItems.plist in Resources */,
+				954E1C761FCF62650093F68F /* SideBar.plist in Resources */,
 				9503A2D41FBDB5A000A4DEE0 /* LaunchScreen.storyboard in Resources */,
+				954E1C771FCF62650093F68F /* TabBar.plist in Resources */,
 				9503A2D11FBDB5A000A4DEE0 /* Assets.xcassets in Resources */,
-				954E1B871FCF1CDF0093F68F /* Abbreviations.plist in Resources */,
+				954E1C731FCF62650093F68F /* Abbreviations.plist in Resources */,
 				9503A2CF1FBDB5A000A4DEE0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -769,60 +758,59 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9503A2DE1FBDB62B00A4DEE0 /* UIRouter.swift in Sources */,
-				9503A2F41FBDB8AB00A4DEE0 /* BaseVC.swift in Sources */,
-				954E1BC51FCF465D0093F68F /* DBRouterC.swift in Sources */,
-				954E1BA31FCF3CCA0093F68F /* NETRouter.swift in Sources */,
-				954E1BD71FCF51700093F68F /* Сleaner.swift in Sources */,
-				954E1BA51FCF3CF80093F68F /* NETRouterP.swift in Sources */,
-				954E1BC71FCF46830093F68F /* DBRouterCP.swift in Sources */,
-				954E1BCF1FCF482A0093F68F /* NETRouterCP.swift in Sources */,
-				954E1BAB1FCF3DC60093F68F /* LogicalUnit.swift in Sources */,
-				954E1BF21FCF545E0093F68F /* BaseItem.swift in Sources */,
-				954E1BB61FCF3F900093F68F /* Deletor.swift in Sources */,
-				9503A2FB1FBDBBDF00A4DEE0 /* Pusher.swift in Sources */,
-				954E1BBB1FCF42800093F68F /* NETRouterC.swift in Sources */,
-				9503A2E41FBDB71200A4DEE0 /* UIRouterP.swift in Sources */,
-				954E1BEE1FCF537D0093F68F /* SNPKitWayP.swift in Sources */,
-				954E1BAD1FCF3DF10093F68F /* InputP.swift in Sources */,
-				95E914251FBDF1CA008E825B /* ThirdVM.swift in Sources */,
-				954E1BF81FCF57820093F68F /* NavigationBarV.swift in Sources */,
-				954E1BA91FCF3D5A0093F68F /* DBRouterP.swift in Sources */,
-				9503A2E21FBDB65200A4DEE0 /* SideBarSVC.swift in Sources */,
-				9503A3041FBDBD6300A4DEE0 /* UIRouterCP.swift in Sources */,
-				954E1BFA1FCF58330093F68F /* Colors.swift in Sources */,
-				95E9141F1FBDF14B008E825B /* ThirdVC.swift in Sources */,
-				95E914191FBDE21C008E825B /* RouterVMP.swift in Sources */,
-				954E1BA71FCF3D4D0093F68F /* DBRouter.swift in Sources */,
-				954E1BFE1FCF58970093F68F /* Fonts.swift in Sources */,
-				95E914271FBDFA4F008E825B /* BaseVM.swift in Sources */,
-				9503A3091FBDC0AC00A4DEE0 /* TO.swift in Sources */,
 				9503A2CA1FBDB5A000A4DEE0 /* AppDelegate.swift in Sources */,
-				954E1BF01FCF53F20093F68F /* StoryboardWayP.swift in Sources */,
-				9503A2F01FBDB82700A4DEE0 /* TabBarVM.swift in Sources */,
-				9503A2E01FBDB63E00A4DEE0 /* TabBarVC.swift in Sources */,
-				954E1BCB1FCF46B30093F68F /* Executor.swift in Sources */,
-				9503A3011FBDBD3600A4DEE0 /* UIRouterC.swift in Sources */,
-				9503A2FF1FBDBBFA00A4DEE0 /* Poper.swift in Sources */,
-				95E914211FBDF1B4008E825B /* FirstVM.swift in Sources */,
-				95E9141B1FBDF12E008E825B /* FirstVC.swift in Sources */,
-				954E1BB41FCF3F630093F68F /* Updater.swift in Sources */,
-				95E914231FBDF1BE008E825B /* SecondVM.swift in Sources */,
-				9503A2E61FBDB75700A4DEE0 /* RouterFP.swift in Sources */,
-				9503A2DC1FBDB61500A4DEE0 /* RoutersF.swift in Sources */,
-				95E9141D1FBDF13C008E825B /* SecondVC.swift in Sources */,
-				9503A2EE1FBDB81600A4DEE0 /* SideBarVM.swift in Sources */,
-				954E1BD41FCF4A7C0093F68F /* Local.swift in Sources */,
-				95E914171FBDE1FE008E825B /* RouterVM.swift in Sources */,
-				954E1BD11FCF49660093F68F /* Request.swift in Sources */,
-				954E1C001FCF58E00093F68F /* NavigationBarVM.swift in Sources */,
-				954E1BB21FCF3F490093F68F /* Creator.swift in Sources */,
-				954E1BAF1FCF3E100093F68F /* OutputP.swift in Sources */,
-				95E914291FBDFAC8008E825B /* BaseVMP.swift in Sources */,
-				954E1BC31FCF46140093F68F /* Getter.swift in Sources */,
-				9503A2FD1FBDBBF100A4DEE0 /* Modaler.swift in Sources */,
-				954E1BF41FCF552F0093F68F /* BaseCell.swift in Sources */,
-				954E1BCD1FCF46DB0093F68F /* Saver.swift in Sources */,
+				954E1CD91FCF63D20093F68F /* DBRouterP.swift in Sources */,
+				954E1C831FCF62650093F68F /* LogicalUnit.swift in Sources */,
+				954E1CA41FCF62650093F68F /* NavigationBarVM.swift in Sources */,
+				954E1C891FCF62650093F68F /* ThirdVC.swift in Sources */,
+				954E1C7A1FCF62650093F68F /* Local.swift in Sources */,
+				954E1CE41FCF63D20093F68F /* NETRouterCP.swift in Sources */,
+				954E1C861FCF62650093F68F /* FirstVM.swift in Sources */,
+				954E1CEE1FCF63D20093F68F /* UIRouterCP.swift in Sources */,
+				954E1C881FCF62650093F68F /* SecondVM.swift in Sources */,
+				954E1CE91FCF63D20093F68F /* UIRouterP.swift in Sources */,
+				954E1C7C1FCF62650093F68F /* TO.swift in Sources */,
+				954E1C811FCF62650093F68F /* RouterVMP.swift in Sources */,
+				954E1CED1FCF63D20093F68F /* UIRouterC.swift in Sources */,
+				954E1C841FCF62650093F68F /* OutputP.swift in Sources */,
+				954E1CA31FCF62650093F68F /* NavigationBarV.swift in Sources */,
+				954E1CAA1FCF62650093F68F /* BaseItem.swift in Sources */,
+				954E1C7F1FCF62650093F68F /* BaseVMP.swift in Sources */,
+				954E1CE81FCF63D20093F68F /* UIRouter.swift in Sources */,
+				954E1C7B1FCF62650093F68F /* Request.swift in Sources */,
+				954E1CA91FCF62650093F68F /* BaseCell.swift in Sources */,
+				954E1CE51FCF63D20093F68F /* Updater.swift in Sources */,
+				954E1CE31FCF63D20093F68F /* NETRouterC.swift in Sources */,
+				954E1CDB1FCF63D20093F68F /* DBRouterC.swift in Sources */,
+				954E1C801FCF62650093F68F /* RouterVM.swift in Sources */,
+				954E1CE01FCF63D20093F68F /* NETRouterP.swift in Sources */,
+				954E1CAB1FCF62650093F68F /* SNPKitWayP.swift in Sources */,
+				954E1CEA1FCF63D20093F68F /* Modaler.swift in Sources */,
+				954E1CA81FCF62650093F68F /* TabBarVM.swift in Sources */,
+				954E1CDC1FCF63D20093F68F /* DBRouterCP.swift in Sources */,
+				954E1CE71FCF63D20093F68F /* RoutersF.swift in Sources */,
+				954E1CEC1FCF63D20093F68F /* Pusher.swift in Sources */,
+				954E1C751FCF62650093F68F /* Fonts.swift in Sources */,
+				954E1C871FCF62650093F68F /* SecondVC.swift in Sources */,
+				954E1C8A1FCF62650093F68F /* ThirdVM.swift in Sources */,
+				954E1CA71FCF62650093F68F /* TabBarVC.swift in Sources */,
+				954E1CD81FCF63D20093F68F /* DBRouter.swift in Sources */,
+				954E1C7E1FCF62650093F68F /* BaseVM.swift in Sources */,
+				954E1C7D1FCF62650093F68F /* BaseVC.swift in Sources */,
+				954E1CDF1FCF63D20093F68F /* NETRouter.swift in Sources */,
+				954E1CA51FCF62650093F68F /* SideBarSVC.swift in Sources */,
+				954E1CE21FCF63D20093F68F /* Getter.swift in Sources */,
+				954E1CDE1FCF63D20093F68F /* Selectioner.swift in Sources */,
+				954E1CE11FCF63D20093F68F /* Creator.swift in Sources */,
+				954E1CAC1FCF62650093F68F /* StoryboardWayP.swift in Sources */,
+				954E1CA61FCF62650093F68F /* SideBarVM.swift in Sources */,
+				954E1C741FCF62650093F68F /* Colors.swift in Sources */,
+				954E1C851FCF62650093F68F /* FirstVC.swift in Sources */,
+				954E1C821FCF62650093F68F /* InputP.swift in Sources */,
+				954E1CEB1FCF63D20093F68F /* Poper.swift in Sources */,
+				954E1CE61FCF63D20093F68F /* RouterFP.swift in Sources */,
+				954E1CDA1FCF63D20093F68F /* Сleaner.swift in Sources */,
+				954E1CDD1FCF63D20093F68F /* Saver.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
