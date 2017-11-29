@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A</key>
+	<string>Adapter</string>
+	<key>B</key>
+	<string>Builder</string>
+	<key>C</key>
+	<string>Controller</string>
+	<key>CN</key>
+	<string>Container</string>
+	<key>CM</key>
+	<string>Command</string>
+	<key>D</key>
+	<string>Delegate</string>
+	<key>F</key>
+	<string>Fabric</string>
+	<key>M</key>
+	<string>Model</string>
+	<key>MM</key>
+	<string>Memento</string>
+	<key>P</key>
+	<string>Protocol</string>
+	<key>R</key>
+	<string>Router</string>
+	<key>S</key>
+	<string>Screen</string>
+	<key>T</key>
+	<string>Type</string>
+	<key>V</key>
+	<string>View</string>
+</dict>
+</plist>
