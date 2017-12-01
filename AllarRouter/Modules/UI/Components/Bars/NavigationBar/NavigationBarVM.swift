@@ -11,9 +11,20 @@ import UIKit
 
 class NavigationBarVM: UIView, InputP, OutputP {
     
-    //var inputData: Struct!
-    //var inputActions: Struct!
+    init() {
+        super.init(frame: CGRect(x:0, y:0, width: UIScreen.main.bounds.width, height: 64))
+        
+        inputData = InputData()
+        outputData = OutputData()
+    }
     
-    //var outputData: Struct!
+    required convenience init?(coder aDecoder: NSCoder) {
+        self.init()
+    }
+    
+    var inputData: InputData!
+    //var inputActions: OutputData
+    
+    var outputData: OutputData!
     //var outputActions: Struct
 }

@@ -9,7 +9,7 @@
 import Foundation
 
 class NETRouter: LogicalUnit, NETRouterP {
-    public static var shared: NETRouter = {
+    open static var shared: NETRouter = {
         let router = NETRouter()
         return router
     }()

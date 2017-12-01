@@ -1,0 +1,3 @@
+github "SnapKit/SnapKit" ~> 3.0.0
+github "realm/realm-cocoa" "master"
+github "ReactiveX/RxSwift" ~> 3.0

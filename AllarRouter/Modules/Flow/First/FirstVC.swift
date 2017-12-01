@@ -9,5 +9,6 @@
 import Foundation
 
 class FirstVC: BaseVC {
-    
+    var first = "blah"
 }
+

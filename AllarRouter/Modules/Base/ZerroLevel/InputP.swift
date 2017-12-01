@@ -9,6 +9,6 @@
 import Foundation
 
 protocol InputP {
-    //var inputData: Struct! {get set}
+    var inputData: InputData! {get set}
     //var inputActions: Struct {get set}
 }

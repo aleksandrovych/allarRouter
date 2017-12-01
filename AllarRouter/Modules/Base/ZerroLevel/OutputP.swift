@@ -9,6 +9,6 @@
 import Foundation
 
 protocol OutputP {
-    //var outputData: Struct! {get set}
+    var outputData: OutputData! {get set}
     //var outputActions: Struct {get set}
 }

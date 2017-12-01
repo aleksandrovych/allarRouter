@@ -9,7 +9,7 @@
 import Foundation
 
 class DBRouter: LogicalUnit, DBRouterP {
-    public static var shared: DBRouter = {
+    open static var shared: DBRouter = {
         let router = DBRouter()
         return router
     }()

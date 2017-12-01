@@ -14,9 +14,9 @@ class UIRouter: UIRouterP{
     fileprivate static var window: UIWindow!
     fileprivate static var root: UIViewController!
     
-    public var currentNavigation: UINavigationController!
+    open var currentNavigation: UINavigationController!
     
-    public static var shared: UIRouter = {
+    open static var shared: UIRouter = {
         let router = UIRouter(window: window, root: root)
         return router
     }()
@@ -31,7 +31,7 @@ class UIRouter: UIRouterP{
     }
     
     //TODO: Get view controller
-    public func getViewController(_ name: String) -> UIViewController {
+    open func getViewController(_ name: String) -> UIViewController {
         let appName = Bundle.main.object(forInfoDictionaryKey: "CFBundleName") as! String
         let viewControllerType = NSClassFromString("\(appName).\(name)") as! UIViewController.Type
         return viewControllerType.init()

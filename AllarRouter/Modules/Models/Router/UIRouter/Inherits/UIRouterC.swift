@@ -9,7 +9,7 @@
 import Foundation
 
 class UIRouterC: UIRouterCP {
-    public var router: UIRouter!
+    open var router: UIRouter!
     
     required init() {
         self.router = UIRouter.shared

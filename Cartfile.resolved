@@ -1,0 +1,3 @@
+github "ReactiveX/RxSwift" "3.6.1"
+github "SnapKit/SnapKit" "3.2.0"
+github "realm/realm-cocoa" "96f574702018f70488a3637af0f922b851aa0e64"

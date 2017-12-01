@@ -9,7 +9,7 @@
 import Foundation
 
 class NETRouterC: NETRouterCP{
-    public var router: NETRouter!
+    open var router: NETRouter!
     
     required init() {
         self.router = NETRouter.shared

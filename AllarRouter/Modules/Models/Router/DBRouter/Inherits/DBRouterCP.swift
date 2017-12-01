@@ -9,5 +9,5 @@
 import Foundation
 
 protocol DBRouterCP {
-    
+    var router: DBRouter! {get set}
 }

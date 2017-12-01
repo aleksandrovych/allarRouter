@@ -14,14 +14,14 @@ class Pusher: UIRouterC {
     required init() {}
     
     static func /(left: Pusher, right: String!) {
-        Pusher.createVC(pusher:left, vc:right, animated:true)
+        Pusher.createVC(left, vc:right, animated:true)
     }
     
     static func !/(left: Pusher, right: String!) {
-        Pusher.createVC(pusher:left, vc:right, animated:false)
+        Pusher.createVC(left, vc:right, animated:false)
     }
     
-    static func createVC(pusher: Pusher, vc: String!, animated: Bool!){
+    static func createVC(_ pusher: Pusher, vc: String!, animated: Bool!){
         assert(vc != nil, "Empty controller name")
         let controller = pusher.router.getViewController(vc)
         

@@ -13,19 +13,27 @@
 	<key>CM</key>
 	<string>Command</string>
 	<key>D</key>
+	<string>Data</string>
+	<key>DD</key>
 	<string>Delegate</string>
 	<key>F</key>
 	<string>Fabric</string>
+	<key>I</key>
+	<string></string>
 	<key>M</key>
 	<string>Model</string>
 	<key>MM</key>
 	<string>Memento</string>
+	<key>O</key>
+	<string>Output</string>
 	<key>P</key>
 	<string>Protocol</string>
 	<key>R</key>
 	<string>Router</string>
 	<key>S</key>
 	<string>Screen</string>
+	<key>SS</key>
+	<string>Service</string>
 	<key>T</key>
 	<string>Type</string>
 	<key>V</key>
