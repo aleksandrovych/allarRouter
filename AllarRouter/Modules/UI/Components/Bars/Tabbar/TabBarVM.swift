@@ -8,6 +8,6 @@
 
 import Foundation
 
-class TabBarVM: RouterVM {
+class TabBarVM🄲: RouterVM🄲 {
     
 }

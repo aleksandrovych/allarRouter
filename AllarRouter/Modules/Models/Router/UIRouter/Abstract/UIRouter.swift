@@ -9,9 +9,9 @@
 import Foundation
 import UIKit
 
-class UIRouter: UIRouterP{
+class UIRouter: UIRouterP🄲{
     
-    fileprivate static var window: UIWindow!
+    static var window: UIWindow!
     fileprivate static var root: UIViewController!
     
     open var currentNavigation: UINavigationController!
@@ -41,7 +41,7 @@ class UIRouter: UIRouterP{
         return UIWindow(frame: UIScreen.main.bounds)
     }
     
-    fileprivate static func createVCOfBaseType() -> BaseVC{
-        return BaseVC(vm: RouterVM())
+    fileprivate static func createVCOfBaseType() -> BaseVC🄲{
+        return BaseVC🄲(vm: RouterVM🄲())
     }
 }

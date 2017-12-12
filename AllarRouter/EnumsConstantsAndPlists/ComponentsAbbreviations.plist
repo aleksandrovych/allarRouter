@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>🄲</key>
+	<string>Component</string>
+	<key>A🄲</key>
+	<string>Actions</string>
+	<key>C🄲</key>
+	<string>Controller</string>
+	<key>D🄲</key>
+	<string>Data</string>
+	<key>E🄲</key>
+	<string>Entity</string>
+	<key>IA🄲</key>
+	<string>Input Actions</string>
+	<key>IAP🄲</key>
+	<string>Input Actions Protocol</string>
+	<key>ID🄲</key>
+	<string>Input Data</string>
+	<key>IDP🄲</key>
+	<string>Input Data Protocol</string>
+	<key>I0🄲</key>
+	<string>Input Output</string>
+	<key>M🄲</key>
+	<string>Model</string>
+	<key>OA🄲</key>
+	<string>Output Actions</string>
+	<key>OAP🄲</key>
+	<string>Output Actions Protocol</string>
+	<key>OD🄲</key>
+	<string>Output Data</string>
+	<key>ODP🄲</key>
+	<string>Output Data Protocol</string>
+	<key>P🄲</key>
+	<string>Protocol</string>
+	<key>V🄲</key>
+	<string>View</string>
+	<key>VC🄲</key>
+	<string>View Controller</string>
+	<key>VCP🄲</key>
+	<string>View Controller Protocol</string>
+	<key>VM🄲</key>
+	<string>View Model</string>
+	<key>VMP🄲</key>
+	<string>View Model Protocol</string>
+	<key>S🄲</key>
+	<string>Screen</string>
+	<key>SVC🄲</key>
+	<string>Screen View Controller</string>
+	<key>SVM🄲</key>
+	<string>Screen View Model</string>
+</dict>
+</plist>

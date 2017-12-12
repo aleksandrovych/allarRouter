@@ -8,6 +8,6 @@
 
 import Foundation
 
-class SideBarVM: RouterVM {
+class SideBarVM🄲: RouterVM🄲 {
     
 }

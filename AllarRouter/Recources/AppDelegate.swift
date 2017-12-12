@@ -12,13 +12,14 @@ import Foundation
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
     
+    var window: UIWindow?
+    
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         
-        let root = FirstVC(vm: FirstVM())
-        root.view.backgroundColor = .green
+        let root = FirstVC🄲(vm: FirstVM🄲())
+        root.view.backgroundColor = Colors.gray1
         _ = UIRouter(root: root)
-        
-        
+        window = UIRouter.window
         
         return true
     }

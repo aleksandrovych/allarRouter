@@ -8,5 +8,5 @@
 
 import Foundation
 
-class Modaler: UIRouterC {
+class Modaler: UIRouterC🅃 {
 }

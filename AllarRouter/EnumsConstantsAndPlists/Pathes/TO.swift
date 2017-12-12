@@ -8,15 +8,14 @@
 
 import Foundation
 
-class TO {
+class To {
     
     static var First:  String!{return action()}
     static var Second: String!{return action()}
     static var Third:  String!{return action()}
     
     static var action = { () -> String in 
-        print(#function)
-        return "SecondVC"
+        return "\(#function)VC"
     }
 }
 

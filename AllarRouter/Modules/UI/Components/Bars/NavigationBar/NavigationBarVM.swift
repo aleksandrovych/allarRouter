@@ -9,13 +9,16 @@
 import Foundation
 import UIKit
 
-class NavigationBarVM: UIView, InputP, OutputP {
+class NavigationBarVM🄲: UIView, InputP🄲, OutputP🄲 {
     
     init() {
         super.init(frame: CGRect(x:0, y:0, width: UIScreen.main.bounds.width, height: 64))
         
         inputData = InputData()
         outputData = OutputData()
+        
+        inputActions = InputActions()
+        outputActions = OutputActions()
     }
     
     required convenience init?(coder aDecoder: NSCoder) {
@@ -23,8 +26,8 @@ class NavigationBarVM: UIView, InputP, OutputP {
     }
     
     var inputData: InputData!
-    //var inputActions: OutputData
+    var inputActions: InputActions!
     
     var outputData: OutputData!
-    //var outputActions: Struct
+    var outputActions: OutputActions!
 }

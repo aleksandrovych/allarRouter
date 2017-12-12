@@ -8,7 +8,7 @@
 
 import Foundation
 
-class DBRouter: LogicalUnit, DBRouterP {
+class DBRouter: LogicalUnit, DBRouterP🄲 {
     open static var shared: DBRouter = {
         let router = DBRouter()
         return router

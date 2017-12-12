@@ -8,6 +8,6 @@
 
 import Foundation
 
-class Сleaner: DBRouterC {
+class Сleaner: DBRouterC🅃 {
     
 }

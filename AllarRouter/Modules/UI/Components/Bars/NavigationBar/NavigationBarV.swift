@@ -9,7 +9,7 @@
 import Foundation
 import UIKit
 
-class NavigationBarV: SNPKitWayP, StoryboardWayP {
+class NavigationBarV: SNPKitWayP🄲, StoryboardWayP🄲 {
     
     //MARK: StoryboardWayP
     func storyboardLayout() {}

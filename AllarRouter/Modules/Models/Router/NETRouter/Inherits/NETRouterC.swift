@@ -8,7 +8,7 @@
 
 import Foundation
 
-class NETRouterC: NETRouterCP{
+class NETRouterC🅃: NETRouterC🅃P🄲{
     open var router: NETRouter!
     
     required init() {

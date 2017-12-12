@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>🄿</key>
+	<string>Pattern</string>
+	<key>A🄿</key>
+	<string>Adapter</string>
+	<key>B🄿</key>
+	<string>Builder</string>
+	<key>C🄿</key>
+	<string>Command</string>
+	<key>D🄿</key>
+	<string>Delegate</string>
+	<key>F🄿</key>
+	<string>Fabric</string>
+	<key>M🄿</key>
+	<string>Memento</string>
+</dict>
+</plist>

@@ -8,19 +8,50 @@
 
 import Foundation
 
-class LogicalUnit: InputP, OutputP  {
+class LogicalUnit: InputP🄲, OutputP🄲  {
 
     required init() {
-        setupI0Data()
+        setupI0🄲Data()
+        setupI0🄲Actions()
     }
     
     var inputData: InputData!
-    //var inputActions: Struct!
+    var inputActions: InputActions!
     
     var outputData: OutputData!
-    //var outputActions: Struct
+    var outputActions: OutputActions!
     
-    func setupI0Data() {
+    func setupI0🄲Data() {
+        let tuple = nakedName()
+        
+        let result = tuple.0
+        let appName = tuple.1
+        
+        let inputD🄲: String! = "\(appName).\(result)ID🄲"
+        let inputD🄲Type = NSClassFromString(inputD🄲) as! InputData.Type
+        inputData = inputD🄲Type.init()
+        
+        let outputD🄲 = "\(appName).\(result)OD🄲"
+        let outputD🄲Type = NSClassFromString(outputD🄲) as! OutputData.Type
+        outputData = outputD🄲Type.init()
+    }
+    
+    func setupI0🄲Actions() {
+        let tuple = nakedName()
+        
+        let result = tuple.0
+        let appName = tuple.1
+        
+        let inputA🄲: String! = "\(appName).\(result)IA🄲"
+        let inputA🄲Type = NSClassFromString(inputA🄲) as! InputActions.Type
+        inputActions = inputA🄲Type.init()
+        
+        let outputA🄲 = "\(appName).\(result)OA🄲"
+        let outputA🄲Type = NSClassFromString(outputA🄲) as! OutputActions.Type
+        outputActions = outputA🄲Type.init()
+    }
+    
+    func nakedName() -> (String, String) {
         let name = String(describing: Mirror(reflecting: self).subjectType)
         
         let splitted = name
@@ -36,12 +67,6 @@ class LogicalUnit: InputP, OutputP  {
         
         let appName = Bundle.main.object(forInfoDictionaryKey: "CFBundleName") as! String
         
-        let input: String! = "\(appName).\(result)ID"
-        let inputType = NSClassFromString(input) as! InputData.Type
-        inputData = inputType.init()
-        
-        let output = "\(appName).\(result)OD"
-        let outputType = NSClassFromString(output) as! OutputData.Type
-        outputData = outputType.init()
+        return (result, appName)
     }
 }

@@ -8,6 +8,6 @@
 
 import Foundation
 
-class Updater: NETRouterC {
+class Updater: NETRouterC🅃 {
     
 }

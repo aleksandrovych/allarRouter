@@ -9,7 +9,7 @@
 import Foundation
 import UIKit
 
-class BaseCell: UITableViewCell, StoryboardWayP, SNPKitWayP {
+class BaseCell: UITableViewCell, StoryboardWayP🄲, SNPKitWayP🄲 {
     
     func storyboardLayout() {
         // Override in subclasses

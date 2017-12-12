@@ -8,6 +8,6 @@
 
 import Foundation
 
-class Creator: NETRouterC {
+class Creator: NETRouterC🅃 {
     
 }

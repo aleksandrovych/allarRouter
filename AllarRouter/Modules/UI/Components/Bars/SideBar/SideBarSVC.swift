@@ -8,6 +8,6 @@
 
 import Foundation
 
-class SideBarC: BaseVC {
+class SideBarC🅃: BaseVC🄲 {
     
 }
