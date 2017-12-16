@@ -8,6 +8,6 @@
 
 import Foundation
 
-protocol DBRouterC🅃P🄿 {
+protocol DBRouterC🅃P🄲 {
     var router: DBRouter! {get set}
 }

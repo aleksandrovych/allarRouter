@@ -1,5 +1,5 @@
 //
-//  FirstIA.swift
+//  FirstOA.swift
 //  AllarRouter
 //
 //  Created by Allar-Alexey Alexandrovich on 11.12.17.
@@ -8,9 +8,6 @@
 
 import Foundation
 
-protocol FirstIAP🄲 {
+class FirstVM🄲OA🄲 : OutputActions{
     
-}
-
-class FirstIA🄲: InputActions {
 }

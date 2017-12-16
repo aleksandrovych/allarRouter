@@ -8,10 +8,11 @@
 
 import Foundation
 
-class DBRouterC🅃: LogicalUnit, DBRouterC🅃P🄿 {
+class DBRouterC🅃: LogicalUnitC🅃, DBRouterC🅃P🄲 {
     open var router: DBRouter!
     
-    required init() {
+    required init(lu🄲: LogicalUnitP🄲!) {
+        super.init(lu🄲: lu🄲)
         self.router = DBRouter.shared
     }
 }

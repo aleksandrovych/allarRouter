@@ -9,5 +9,7 @@
 import Foundation
 
 class Updater: NETRouterC🅃 {
-    
+    required init(lu🄲: LogicalUnitP🄲!) {
+        super.init(lu🄲: lu🄲)
+    }
 }

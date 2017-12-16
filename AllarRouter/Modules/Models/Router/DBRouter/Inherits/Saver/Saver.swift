@@ -9,5 +9,7 @@
 import Foundation
 
 class Saver: DBRouterC🅃 {
-    
+    required init(lu🄲: LogicalUnitP🄲!) {
+        super.init(lu🄲: lu🄲)
+    }
 }

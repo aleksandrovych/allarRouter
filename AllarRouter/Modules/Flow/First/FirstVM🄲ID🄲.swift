@@ -8,12 +8,12 @@
 
 import Foundation
 
-protocol FirstIDP🄲 {
+protocol FirstVM🄲IDP🄲 {
     var f_variable1: String {get set}
     var f_variable2: String {get set}
     var f_variable3: String {get set}
 }
 
-class FirstID🄲: InputData {
+class FirstVM🄲ID🄲: InputData {
 }
 

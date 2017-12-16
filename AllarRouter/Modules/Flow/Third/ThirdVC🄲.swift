@@ -8,6 +8,6 @@
 
 import Foundation
 
-class ThirdVC🄲: BaseVC🄲 {
+class ThirdVC🄲: CommandsVC🄲 {
     
 }

@@ -8,6 +8,6 @@
 
 import Foundation
 
-class ThirdVM🄲: RouterVM🄲 {
+class ThirdVM🄲: CommandsVM🄲 {
     
 }

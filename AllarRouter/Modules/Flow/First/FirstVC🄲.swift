@@ -10,7 +10,7 @@ import Foundation
 import UIKit
 import SnapKit
 
-class FirstVC🄲: BaseVC🄲 {
+class FirstVC🄲: CommandsVC🄲 {
     var button: UIButton!
     
     override func createUI() {

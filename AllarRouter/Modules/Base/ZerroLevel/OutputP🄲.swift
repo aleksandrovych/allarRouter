@@ -8,7 +8,7 @@
 
 import Foundation
 
-protocol OutputP🄲 {
+protocol OutputP🄲: class {
     var outputData: OutputData! {get set}
     var outputActions: OutputActions! {get set}
 }

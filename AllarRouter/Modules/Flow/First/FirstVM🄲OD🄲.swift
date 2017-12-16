@@ -8,13 +8,13 @@
 
 import Foundation
 
-class FirstOD🄲: OutputData {
+class FirstVM🄲OD🄲: OutputData {
     var variable1: String!
     var variable2: String!
     var variable3: String!
 }
 
-extension FirstOD🄲: SecondIDP🄲 {
+extension FirstVM🄲OD🄲: SecondVM🄲IDP🄲 {
     var s_variable1: String {
         set {variable1 = newValue}
         get {return variable1}
@@ -31,7 +31,7 @@ extension FirstOD🄲: SecondIDP🄲 {
     }
 }
 
-extension FirstOD🄲: ThirdIDP🄲 {
+extension FirstVM🄲OD🄲: ThirdVM🄲IDP🄲 {
     var th_variable1: String {
         set {variable1 = newValue}
         get {return variable1}
@@ -48,7 +48,7 @@ extension FirstOD🄲: ThirdIDP🄲 {
     }
 }
 
-extension FirstOD🄲: SelectionerIDP🄲 {
+extension FirstVM🄲OD🄲: SelectionerIDP🄲 {
     var sel_variable: String {
         set {variable1 = newValue}
         get {return variable1}

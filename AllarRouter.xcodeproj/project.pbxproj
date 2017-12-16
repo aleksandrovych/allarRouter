@@ -7,6 +7,33 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		950460231FE01409005A0309 /* TemplatesHT🅃.swift in Sources */ = {isa = PBXBuildFile; fileRef = 950460221FE01409005A0309 /* TemplatesHT🅃.swift */; };
+		951AE5561FE3083400EB6E9C /* FirstVM🄲PD🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5551FE3083400EB6E9C /* FirstVM🄲PD🄲.swift */; };
+		951AE5581FE3084900EB6E9C /* FirstVM🄲PA🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5571FE3084900EB6E9C /* FirstVM🄲PA🄲.swift */; };
+		951AE55A1FE3085A00EB6E9C /* FirstVM🄲PAP🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5591FE3085A00EB6E9C /* FirstVM🄲PAP🄲.swift */; };
+		951AE55C1FE3096800EB6E9C /* PrivateData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE55B1FE3096800EB6E9C /* PrivateData.swift */; };
+		951AE55E1FE3097400EB6E9C /* PrivateActions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE55D1FE3097400EB6E9C /* PrivateActions.swift */; };
+		951AE5611FE309B700EB6E9C /* PrivateP🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5601FE309B700EB6E9C /* PrivateP🄲.swift */; };
+		951AE5631FE45B1800EB6E9C /* LogicalUnitC🅃.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5621FE45B1800EB6E9C /* LogicalUnitC🅃.swift */; };
+		951AE5651FE45B3900EB6E9C /* LogicalUnitC🅃P🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5641FE45B3900EB6E9C /* LogicalUnitC🅃P🄲.swift */; };
+		951AE56A1FE47FDE00EB6E9C /* CodeRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5691FE47FDE00EB6E9C /* CodeRouter.swift */; };
+		951AE56C1FE4800B00EB6E9C /* CodeRouterP🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE56B1FE4800B00EB6E9C /* CodeRouterP🄲.swift */; };
+		951AE56E1FE4805500EB6E9C /* CodeRouterC🅃.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE56D1FE4805500EB6E9C /* CodeRouterC🅃.swift */; };
+		951AE5701FE4813700EB6E9C /* CodeRouterC🅃P🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE56F1FE4813700EB6E9C /* CodeRouterC🅃P🄲.swift */; };
+		951AE5741FE481AD00EB6E9C /* Runner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5731FE481AD00EB6E9C /* Runner.swift */; };
+		951AE5761FE51F4100EB6E9C /* UIRouterID🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5751FE51F4100EB6E9C /* UIRouterID🄲.swift */; };
+		951AE5781FE51FB000EB6E9C /* UIRouterOD🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5771FE51FB000EB6E9C /* UIRouterOD🄲.swift */; };
+		951AE57A1FE51FD600EB6E9C /* UIRouterIA🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5791FE51FD600EB6E9C /* UIRouterIA🄲.swift */; };
+		951AE57C1FE5202500EB6E9C /* UIRouterOA🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE57B1FE5202500EB6E9C /* UIRouterOA🄲.swift */; };
+		951AE57E1FE5205B00EB6E9C /* UIRouterPD🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE57D1FE5205B00EB6E9C /* UIRouterPD🄲.swift */; };
+		951AE5801FE520AC00EB6E9C /* UIRouterPA🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE57F1FE520AC00EB6E9C /* UIRouterPA🄲.swift */; };
+		951AE5821FE5238E00EB6E9C /* CommandsVM🄲C🅃P🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5811FE5238E00EB6E9C /* CommandsVM🄲C🅃P🄲.swift */; };
+		951AE5841FE5259100EB6E9C /* LogicalUnitP🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5831FE5259100EB6E9C /* LogicalUnitP🄲.swift */; };
+		951AE5851FE52EEE00EB6E9C /* SecondVM🄲ID🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9554F75F1FD1F9D200E996B0 /* SecondVM🄲ID🄲.swift */; };
+		951AE5861FE5302100EB6E9C /* FirstVM🄲OD🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9554F75D1FD1F97D00E996B0 /* FirstVM🄲OD🄲.swift */; };
+		951AE58A1FE5360A00EB6E9C /* CommandsVC🄲C🅃P🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5891FE5360A00EB6E9C /* CommandsVC🄲C🅃P🄲.swift */; };
+		951AE58C1FE5363300EB6E9C /* CommandsVCP🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE58B1FE5363300EB6E9C /* CommandsVCP🄲.swift */; };
+		951AE58E1FE5366600EB6E9C /* CommandsVC🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE58D1FE5366600EB6E9C /* CommandsVC🄲.swift */; };
 		954E1C731FCF62650093F68F /* ComponentsAbbreviations.plist in Resources */ = {isa = PBXBuildFile; fileRef = 954E1C021FCF62650093F68F /* ComponentsAbbreviations.plist */; };
 		954E1C741FCF62650093F68F /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C041FCF62650093F68F /* Colors.swift */; };
 		954E1C751FCF62650093F68F /* Fonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C051FCF62650093F68F /* Fonts.swift */; };
@@ -20,8 +47,8 @@
 		954E1C7D1FCF62650093F68F /* BaseVC🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C121FCF62650093F68F /* BaseVC🄲.swift */; };
 		954E1C7E1FCF62650093F68F /* BaseVM🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C131FCF62650093F68F /* BaseVM🄲.swift */; };
 		954E1C7F1FCF62650093F68F /* BaseVMP🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C141FCF62650093F68F /* BaseVMP🄲.swift */; };
-		954E1C801FCF62650093F68F /* RouterVM🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C161FCF62650093F68F /* RouterVM🄲.swift */; };
-		954E1C811FCF62650093F68F /* RouterVMP🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C171FCF62650093F68F /* RouterVMP🄲.swift */; };
+		954E1C801FCF62650093F68F /* CommandsVM🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C161FCF62650093F68F /* CommandsVM🄲.swift */; };
+		954E1C811FCF62650093F68F /* CommandsVMP🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C171FCF62650093F68F /* CommandsVMP🄲.swift */; };
 		954E1C821FCF62650093F68F /* InputP🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C191FCF62650093F68F /* InputP🄲.swift */; };
 		954E1C831FCF62650093F68F /* LogicalUnit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C1A1FCF62650093F68F /* LogicalUnit.swift */; };
 		954E1C841FCF62650093F68F /* OutputP🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C1B1FCF62650093F68F /* OutputP🄲.swift */; };
@@ -45,7 +72,7 @@
 		954E1CD91FCF63D20093F68F /* DBRouterP🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CB11FCF63D20093F68F /* DBRouterP🄲.swift */; };
 		954E1CDA1FCF63D20093F68F /* Сleaner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CB41FCF63D20093F68F /* Сleaner.swift */; };
 		954E1CDB1FCF63D20093F68F /* DBRouterC🅃.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CB51FCF63D20093F68F /* DBRouterC🅃.swift */; };
-		954E1CDC1FCF63D20093F68F /* DBRouterC🅃P🄿.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CB61FCF63D20093F68F /* DBRouterC🅃P🄿.swift */; };
+		954E1CDC1FCF63D20093F68F /* DBRouterC🅃P🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CB61FCF63D20093F68F /* DBRouterC🅃P🄲.swift */; };
 		954E1CDD1FCF63D20093F68F /* Saver.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CB81FCF63D20093F68F /* Saver.swift */; };
 		954E1CDE1FCF63D20093F68F /* Selectioner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CBA1FCF63D20093F68F /* Selectioner.swift */; };
 		954E1CDF1FCF63D20093F68F /* NETRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CBD1FCF63D20093F68F /* NETRouter.swift */; };
@@ -55,8 +82,8 @@
 		954E1CE31FCF63D20093F68F /* NETRouterC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CC51FCF63D20093F68F /* NETRouterC.swift */; };
 		954E1CE41FCF63D20093F68F /* NETRouterC🅃P🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CC61FCF63D20093F68F /* NETRouterC🅃P🄲.swift */; };
 		954E1CE51FCF63D20093F68F /* Updater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CC81FCF63D20093F68F /* Updater.swift */; };
-		954E1CE61FCF63D20093F68F /* RouterF🄿P🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CC91FCF63D20093F68F /* RouterF🄿P🄲.swift */; };
-		954E1CE71FCF63D20093F68F /* RoutersF🄿.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CCA1FCF63D20093F68F /* RoutersF🄿.swift */; };
+		954E1CE61FCF63D20093F68F /* CommandsF🄿P🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CC91FCF63D20093F68F /* CommandsF🄿P🄲.swift */; };
+		954E1CE71FCF63D20093F68F /* CommandsF🄿.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CCA1FCF63D20093F68F /* CommandsF🄿.swift */; };
 		954E1CE81FCF63D20093F68F /* UIRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CCD1FCF63D20093F68F /* UIRouter.swift */; };
 		954E1CE91FCF63D20093F68F /* UIRouterP🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CCE1FCF63D20093F68F /* UIRouterP🄲.swift */; };
 		954E1CEA1FCF63D20093F68F /* Modaler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CD11FCF63D20093F68F /* Modaler.swift */; };
@@ -66,18 +93,15 @@
 		954E1CEE1FCF63D20093F68F /* UIRouterC🅃P.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1CD71FCF63D20093F68F /* UIRouterC🅃P.swift */; };
 		9554F7551FD1F74400E996B0 /* InputData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9554F7541FD1F74400E996B0 /* InputData.swift */; };
 		9554F7571FD1F79400E996B0 /* OutputData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9554F7561FD1F79400E996B0 /* OutputData.swift */; };
-		9554F75B1FD1F93900E996B0 /* FirstID🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9554F75A1FD1F93900E996B0 /* FirstID🄲.swift */; };
-		9554F75E1FD1F97D00E996B0 /* FirstOD🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9554F75D1FD1F97D00E996B0 /* FirstOD🄲.swift */; };
-		9554F7601FD1F9D200E996B0 /* SecondID🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9554F75F1FD1F9D200E996B0 /* SecondID🄲.swift */; };
-		9554F7621FD1F9F200E996B0 /* SecondOD🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9554F7611FD1F9F200E996B0 /* SecondOD🄲.swift */; };
-		9554F7641FD1FA1700E996B0 /* ThirdID🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9554F7631FD1FA1700E996B0 /* ThirdID🄲.swift */; };
-		9554F7661FD1FA3000E996B0 /* ThirdOD🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9554F7651FD1FA3000E996B0 /* ThirdOD🄲.swift */; };
+		9554F75B1FD1F93900E996B0 /* FirstVM🄲ID🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9554F75A1FD1F93900E996B0 /* FirstVM🄲ID🄲.swift */; };
+		9554F7621FD1F9F200E996B0 /* SecondVM🄲OD🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9554F7611FD1F9F200E996B0 /* SecondVM🄲OD🄲.swift */; };
+		9554F7641FD1FA1700E996B0 /* ThirdVM🄲ID🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9554F7631FD1FA1700E996B0 /* ThirdVM🄲ID🄲.swift */; };
+		9554F7661FD1FA3000E996B0 /* ThirdVM🄲OD🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9554F7651FD1FA3000E996B0 /* ThirdVM🄲OD🄲.swift */; };
 		9554F7681FD1FE1300E996B0 /* SelectionerID🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9554F7671FD1FE1300E996B0 /* SelectionerID🄲.swift */; };
 		9554F76A1FD1FF0300E996B0 /* SelectionerOD🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9554F7691FD1FF0300E996B0 /* SelectionerOD🄲.swift */; };
-		9554F76C1FD205BD00E996B0 /* String+SeparatedByUpperCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9554F76B1FD205BD00E996B0 /* String+SeparatedByUpperCase.swift */; };
 		957330D01FDF0530005AD56A /* UICreateP🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 957330CF1FDF0530005AD56A /* UICreateP🄲.swift */; };
-		957330D21FDF1503005AD56A /* FirstOA🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 957330D11FDF1503005AD56A /* FirstOA🄲.swift */; };
-		957330D41FDF1515005AD56A /* FirstIA🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 957330D31FDF1515005AD56A /* FirstIA🄲.swift */; };
+		957330D21FDF1503005AD56A /* FirstVM🄲OA🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 957330D11FDF1503005AD56A /* FirstVM🄲OA🄲.swift */; };
+		957330D41FDF1515005AD56A /* FirstVM🄲IA🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 957330D31FDF1515005AD56A /* FirstVM🄲IA🄲.swift */; };
 		957330D71FDF15FC005AD56A /* OutputActions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 957330D61FDF15FC005AD56A /* OutputActions.swift */; };
 		957330D91FDF1652005AD56A /* InputActions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 957330D81FDF1652005AD56A /* InputActions.swift */; };
 		957330DC1FDFE075005AD56A /* PattertnsAbbreviations.plist in Resources */ = {isa = PBXBuildFile; fileRef = 957330DB1FDFE075005AD56A /* PattertnsAbbreviations.plist */; };
@@ -122,6 +146,31 @@
 
 /* Begin PBXFileReference section */
 		9503A2C61FBDB5A000A4DEE0 /* AllarRouter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AllarRouter.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		950460221FE01409005A0309 /* TemplatesHT🅃.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "TemplatesHT🅃.swift"; sourceTree = "<group>"; };
+		951AE5551FE3083400EB6E9C /* FirstVM🄲PD🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "FirstVM🄲PD🄲.swift"; sourceTree = "<group>"; };
+		951AE5571FE3084900EB6E9C /* FirstVM🄲PA🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "FirstVM🄲PA🄲.swift"; sourceTree = "<group>"; };
+		951AE5591FE3085A00EB6E9C /* FirstVM🄲PAP🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "FirstVM🄲PAP🄲.swift"; sourceTree = "<group>"; };
+		951AE55B1FE3096800EB6E9C /* PrivateData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrivateData.swift; sourceTree = "<group>"; };
+		951AE55D1FE3097400EB6E9C /* PrivateActions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PrivateActions.swift; sourceTree = "<group>"; };
+		951AE5601FE309B700EB6E9C /* PrivateP🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PrivateP🄲.swift"; sourceTree = "<group>"; };
+		951AE5621FE45B1800EB6E9C /* LogicalUnitC🅃.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "LogicalUnitC🅃.swift"; sourceTree = "<group>"; };
+		951AE5641FE45B3900EB6E9C /* LogicalUnitC🅃P🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "LogicalUnitC🅃P🄲.swift"; sourceTree = "<group>"; };
+		951AE5691FE47FDE00EB6E9C /* CodeRouter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CodeRouter.swift; sourceTree = "<group>"; };
+		951AE56B1FE4800B00EB6E9C /* CodeRouterP🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CodeRouterP🄲.swift"; sourceTree = "<group>"; };
+		951AE56D1FE4805500EB6E9C /* CodeRouterC🅃.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CodeRouterC🅃.swift"; sourceTree = "<group>"; };
+		951AE56F1FE4813700EB6E9C /* CodeRouterC🅃P🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CodeRouterC🅃P🄲.swift"; sourceTree = "<group>"; };
+		951AE5731FE481AD00EB6E9C /* Runner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Runner.swift; sourceTree = "<group>"; };
+		951AE5751FE51F4100EB6E9C /* UIRouterID🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIRouterID🄲.swift"; sourceTree = "<group>"; };
+		951AE5771FE51FB000EB6E9C /* UIRouterOD🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIRouterOD🄲.swift"; sourceTree = "<group>"; };
+		951AE5791FE51FD600EB6E9C /* UIRouterIA🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIRouterIA🄲.swift"; sourceTree = "<group>"; };
+		951AE57B1FE5202500EB6E9C /* UIRouterOA🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIRouterOA🄲.swift"; sourceTree = "<group>"; };
+		951AE57D1FE5205B00EB6E9C /* UIRouterPD🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIRouterPD🄲.swift"; sourceTree = "<group>"; };
+		951AE57F1FE520AC00EB6E9C /* UIRouterPA🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIRouterPA🄲.swift"; sourceTree = "<group>"; };
+		951AE5811FE5238E00EB6E9C /* CommandsVM🄲C🅃P🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CommandsVM🄲C🅃P🄲.swift"; sourceTree = "<group>"; };
+		951AE5831FE5259100EB6E9C /* LogicalUnitP🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "LogicalUnitP🄲.swift"; sourceTree = "<group>"; };
+		951AE5891FE5360A00EB6E9C /* CommandsVC🄲C🅃P🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CommandsVC🄲C🅃P🄲.swift"; sourceTree = "<group>"; };
+		951AE58B1FE5363300EB6E9C /* CommandsVCP🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CommandsVCP🄲.swift"; sourceTree = "<group>"; };
+		951AE58D1FE5366600EB6E9C /* CommandsVC🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CommandsVC🄲.swift"; sourceTree = "<group>"; };
 		954E1C021FCF62650093F68F /* ComponentsAbbreviations.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ComponentsAbbreviations.plist; sourceTree = "<group>"; };
 		954E1C041FCF62650093F68F /* Colors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 		954E1C051FCF62650093F68F /* Fonts.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Fonts.swift; sourceTree = "<group>"; };
@@ -135,8 +184,8 @@
 		954E1C121FCF62650093F68F /* BaseVC🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "BaseVC🄲.swift"; sourceTree = "<group>"; };
 		954E1C131FCF62650093F68F /* BaseVM🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "BaseVM🄲.swift"; sourceTree = "<group>"; };
 		954E1C141FCF62650093F68F /* BaseVMP🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "BaseVMP🄲.swift"; sourceTree = "<group>"; };
-		954E1C161FCF62650093F68F /* RouterVM🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RouterVM🄲.swift"; sourceTree = "<group>"; };
-		954E1C171FCF62650093F68F /* RouterVMP🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RouterVMP🄲.swift"; sourceTree = "<group>"; };
+		954E1C161FCF62650093F68F /* CommandsVM🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CommandsVM🄲.swift"; sourceTree = "<group>"; };
+		954E1C171FCF62650093F68F /* CommandsVMP🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CommandsVMP🄲.swift"; sourceTree = "<group>"; };
 		954E1C191FCF62650093F68F /* InputP🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "InputP🄲.swift"; sourceTree = "<group>"; };
 		954E1C1A1FCF62650093F68F /* LogicalUnit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogicalUnit.swift; sourceTree = "<group>"; };
 		954E1C1B1FCF62650093F68F /* OutputP🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "OutputP🄲.swift"; sourceTree = "<group>"; };
@@ -160,7 +209,7 @@
 		954E1CB11FCF63D20093F68F /* DBRouterP🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "DBRouterP🄲.swift"; sourceTree = "<group>"; };
 		954E1CB41FCF63D20093F68F /* Сleaner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Сleaner.swift"; sourceTree = "<group>"; };
 		954E1CB51FCF63D20093F68F /* DBRouterC🅃.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "DBRouterC🅃.swift"; sourceTree = "<group>"; };
-		954E1CB61FCF63D20093F68F /* DBRouterC🅃P🄿.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "DBRouterC🅃P🄿.swift"; sourceTree = "<group>"; };
+		954E1CB61FCF63D20093F68F /* DBRouterC🅃P🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "DBRouterC🅃P🄲.swift"; sourceTree = "<group>"; };
 		954E1CB81FCF63D20093F68F /* Saver.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Saver.swift; sourceTree = "<group>"; };
 		954E1CBA1FCF63D20093F68F /* Selectioner.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Selectioner.swift; sourceTree = "<group>"; };
 		954E1CBD1FCF63D20093F68F /* NETRouter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NETRouter.swift; sourceTree = "<group>"; };
@@ -170,8 +219,8 @@
 		954E1CC51FCF63D20093F68F /* NETRouterC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NETRouterC.swift; sourceTree = "<group>"; };
 		954E1CC61FCF63D20093F68F /* NETRouterC🅃P🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "NETRouterC🅃P🄲.swift"; sourceTree = "<group>"; };
 		954E1CC81FCF63D20093F68F /* Updater.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Updater.swift; sourceTree = "<group>"; };
-		954E1CC91FCF63D20093F68F /* RouterF🄿P🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RouterF🄿P🄲.swift"; sourceTree = "<group>"; };
-		954E1CCA1FCF63D20093F68F /* RoutersF🄿.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "RoutersF🄿.swift"; sourceTree = "<group>"; };
+		954E1CC91FCF63D20093F68F /* CommandsF🄿P🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CommandsF🄿P🄲.swift"; sourceTree = "<group>"; };
+		954E1CCA1FCF63D20093F68F /* CommandsF🄿.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CommandsF🄿.swift"; sourceTree = "<group>"; };
 		954E1CCD1FCF63D20093F68F /* UIRouter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIRouter.swift; sourceTree = "<group>"; };
 		954E1CCE1FCF63D20093F68F /* UIRouterP🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIRouterP🄲.swift"; sourceTree = "<group>"; };
 		954E1CD11FCF63D20093F68F /* Modaler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Modaler.swift; sourceTree = "<group>"; };
@@ -181,18 +230,17 @@
 		954E1CD71FCF63D20093F68F /* UIRouterC🅃P.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIRouterC🅃P.swift"; sourceTree = "<group>"; };
 		9554F7541FD1F74400E996B0 /* InputData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InputData.swift; sourceTree = "<group>"; };
 		9554F7561FD1F79400E996B0 /* OutputData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OutputData.swift; sourceTree = "<group>"; };
-		9554F75A1FD1F93900E996B0 /* FirstID🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "FirstID🄲.swift"; sourceTree = "<group>"; };
-		9554F75D1FD1F97D00E996B0 /* FirstOD🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "FirstOD🄲.swift"; sourceTree = "<group>"; };
-		9554F75F1FD1F9D200E996B0 /* SecondID🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SecondID🄲.swift"; sourceTree = "<group>"; };
-		9554F7611FD1F9F200E996B0 /* SecondOD🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SecondOD🄲.swift"; sourceTree = "<group>"; };
-		9554F7631FD1FA1700E996B0 /* ThirdID🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ThirdID🄲.swift"; sourceTree = "<group>"; };
-		9554F7651FD1FA3000E996B0 /* ThirdOD🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ThirdOD🄲.swift"; sourceTree = "<group>"; };
+		9554F75A1FD1F93900E996B0 /* FirstVM🄲ID🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "FirstVM🄲ID🄲.swift"; sourceTree = "<group>"; };
+		9554F75D1FD1F97D00E996B0 /* FirstVM🄲OD🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "FirstVM🄲OD🄲.swift"; sourceTree = "<group>"; };
+		9554F75F1FD1F9D200E996B0 /* SecondVM🄲ID🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SecondVM🄲ID🄲.swift"; sourceTree = "<group>"; };
+		9554F7611FD1F9F200E996B0 /* SecondVM🄲OD🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SecondVM🄲OD🄲.swift"; sourceTree = "<group>"; };
+		9554F7631FD1FA1700E996B0 /* ThirdVM🄲ID🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ThirdVM🄲ID🄲.swift"; sourceTree = "<group>"; };
+		9554F7651FD1FA3000E996B0 /* ThirdVM🄲OD🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ThirdVM🄲OD🄲.swift"; sourceTree = "<group>"; };
 		9554F7671FD1FE1300E996B0 /* SelectionerID🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SelectionerID🄲.swift"; sourceTree = "<group>"; };
 		9554F7691FD1FF0300E996B0 /* SelectionerOD🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SelectionerOD🄲.swift"; sourceTree = "<group>"; };
-		9554F76B1FD205BD00E996B0 /* String+SeparatedByUpperCase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String+SeparatedByUpperCase.swift"; sourceTree = "<group>"; };
 		957330CF1FDF0530005AD56A /* UICreateP🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UICreateP🄲.swift"; sourceTree = "<group>"; };
-		957330D11FDF1503005AD56A /* FirstOA🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "FirstOA🄲.swift"; sourceTree = "<group>"; };
-		957330D31FDF1515005AD56A /* FirstIA🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "FirstIA🄲.swift"; sourceTree = "<group>"; };
+		957330D11FDF1503005AD56A /* FirstVM🄲OA🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "FirstVM🄲OA🄲.swift"; sourceTree = "<group>"; };
+		957330D31FDF1515005AD56A /* FirstVM🄲IA🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "FirstVM🄲IA🄲.swift"; sourceTree = "<group>"; };
 		957330D61FDF15FC005AD56A /* OutputActions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OutputActions.swift; sourceTree = "<group>"; };
 		957330D81FDF1652005AD56A /* InputActions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InputActions.swift; sourceTree = "<group>"; };
 		957330DB1FDFE075005AD56A /* PattertnsAbbreviations.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = PattertnsAbbreviations.plist; sourceTree = "<group>"; };
@@ -253,6 +301,72 @@
 				958E51971FD093E300D516E1 /* Recources */,
 			);
 			path = AllarRouter;
+			sourceTree = "<group>";
+		};
+		951AE55F1FE3099500EB6E9C /* Private */ = {
+			isa = PBXGroup;
+			children = (
+				951AE55B1FE3096800EB6E9C /* PrivateData.swift */,
+				951AE55D1FE3097400EB6E9C /* PrivateActions.swift */,
+				951AE5601FE309B700EB6E9C /* PrivateP🄲.swift */,
+			);
+			name = Private;
+			sourceTree = "<group>";
+		};
+		951AE5661FE47F7200EB6E9C /* CodeRouter */ = {
+			isa = PBXGroup;
+			children = (
+				951AE5681FE47FB200EB6E9C /* Inherits */,
+				951AE5671FE47FA700EB6E9C /* Abstract */,
+			);
+			name = CodeRouter;
+			sourceTree = "<group>";
+		};
+		951AE5671FE47FA700EB6E9C /* Abstract */ = {
+			isa = PBXGroup;
+			children = (
+				951AE5691FE47FDE00EB6E9C /* CodeRouter.swift */,
+				951AE56B1FE4800B00EB6E9C /* CodeRouterP🄲.swift */,
+			);
+			name = Abstract;
+			sourceTree = "<group>";
+		};
+		951AE5681FE47FB200EB6E9C /* Inherits */ = {
+			isa = PBXGroup;
+			children = (
+				951AE5721FE4817700EB6E9C /* Runer */,
+				951AE56D1FE4805500EB6E9C /* CodeRouterC🅃.swift */,
+				951AE56F1FE4813700EB6E9C /* CodeRouterC🅃P🄲.swift */,
+			);
+			name = Inherits;
+			sourceTree = "<group>";
+		};
+		951AE5721FE4817700EB6E9C /* Runer */ = {
+			isa = PBXGroup;
+			children = (
+				951AE5731FE481AD00EB6E9C /* Runner.swift */,
+			);
+			name = Runer;
+			sourceTree = "<group>";
+		};
+		951AE5871FE535C900EB6E9C /* vm */ = {
+			isa = PBXGroup;
+			children = (
+				951AE5811FE5238E00EB6E9C /* CommandsVM🄲C🅃P🄲.swift */,
+				954E1C171FCF62650093F68F /* CommandsVMP🄲.swift */,
+				954E1C161FCF62650093F68F /* CommandsVM🄲.swift */,
+			);
+			name = vm;
+			sourceTree = "<group>";
+		};
+		951AE5881FE535F600EB6E9C /* vc */ = {
+			isa = PBXGroup;
+			children = (
+				951AE5891FE5360A00EB6E9C /* CommandsVC🄲C🅃P🄲.swift */,
+				951AE58B1FE5363300EB6E9C /* CommandsVCP🄲.swift */,
+				951AE58D1FE5366600EB6E9C /* CommandsVC🄲.swift */,
+			);
+			name = vc;
 			sourceTree = "<group>";
 		};
 		954E1C011FCF62650093F68F /* EnumsConstantsAndPlists */ = {
@@ -331,8 +445,8 @@
 		954E1C151FCF62650093F68F /* SecondLevel */ = {
 			isa = PBXGroup;
 			children = (
-				954E1C161FCF62650093F68F /* RouterVM🄲.swift */,
-				954E1C171FCF62650093F68F /* RouterVMP🄲.swift */,
+				951AE5881FE535F600EB6E9C /* vc */,
+				951AE5871FE535C900EB6E9C /* vm */,
 			);
 			path = SecondLevel;
 			sourceTree = "<group>";
@@ -343,6 +457,10 @@
 				954E1C1A1FCF62650093F68F /* LogicalUnit.swift */,
 				9554F7591FD1F82600E996B0 /* Output */,
 				9554F7581FD1F81600E996B0 /* Input */,
+				951AE55F1FE3099500EB6E9C /* Private */,
+				951AE5621FE45B1800EB6E9C /* LogicalUnitC🅃.swift */,
+				951AE5641FE45B3900EB6E9C /* LogicalUnitC🅃P🄲.swift */,
+				951AE5831FE5259100EB6E9C /* LogicalUnitP🄲.swift */,
 			);
 			path = ZerroLevel;
 			sourceTree = "<group>";
@@ -385,10 +503,13 @@
 			children = (
 				954E1C211FCF62650093F68F /* FirstVC🄲.swift */,
 				954E1C221FCF62650093F68F /* FirstVM🄲.swift */,
-				9554F75A1FD1F93900E996B0 /* FirstID🄲.swift */,
-				9554F75D1FD1F97D00E996B0 /* FirstOD🄲.swift */,
-				957330D11FDF1503005AD56A /* FirstOA🄲.swift */,
-				957330D31FDF1515005AD56A /* FirstIA🄲.swift */,
+				9554F75A1FD1F93900E996B0 /* FirstVM🄲ID🄲.swift */,
+				9554F75D1FD1F97D00E996B0 /* FirstVM🄲OD🄲.swift */,
+				957330D11FDF1503005AD56A /* FirstVM🄲OA🄲.swift */,
+				957330D31FDF1515005AD56A /* FirstVM🄲IA🄲.swift */,
+				951AE5551FE3083400EB6E9C /* FirstVM🄲PD🄲.swift */,
+				951AE5571FE3084900EB6E9C /* FirstVM🄲PA🄲.swift */,
+				951AE5591FE3085A00EB6E9C /* FirstVM🄲PAP🄲.swift */,
 			);
 			path = First;
 			sourceTree = "<group>";
@@ -398,8 +519,8 @@
 			children = (
 				954E1C241FCF62650093F68F /* SecondVC🄲.swift */,
 				954E1C251FCF62650093F68F /* SecondVM🄲.swift */,
-				9554F75F1FD1F9D200E996B0 /* SecondID🄲.swift */,
-				9554F7611FD1F9F200E996B0 /* SecondOD🄲.swift */,
+				9554F75F1FD1F9D200E996B0 /* SecondVM🄲ID🄲.swift */,
+				9554F7611FD1F9F200E996B0 /* SecondVM🄲OD🄲.swift */,
 			);
 			path = Second;
 			sourceTree = "<group>";
@@ -409,8 +530,8 @@
 			children = (
 				954E1C271FCF62650093F68F /* ThirdVC🄲.swift */,
 				954E1C281FCF62650093F68F /* ThirdVM🄲.swift */,
-				9554F7631FD1FA1700E996B0 /* ThirdID🄲.swift */,
-				9554F7651FD1FA3000E996B0 /* ThirdOD🄲.swift */,
+				9554F7631FD1FA1700E996B0 /* ThirdVM🄲ID🄲.swift */,
+				9554F7651FD1FA3000E996B0 /* ThirdVM🄲OD🄲.swift */,
 			);
 			path = Third;
 			sourceTree = "<group>";
@@ -430,7 +551,6 @@
 		954E1C2A1FCF62650093F68F /* Categories */ = {
 			isa = PBXGroup;
 			children = (
-				9554F76B1FD205BD00E996B0 /* String+SeparatedByUpperCase.swift */,
 			);
 			path = Categories;
 			sourceTree = "<group>";
@@ -446,6 +566,7 @@
 		954E1C2C1FCF62650093F68F /* Patterns */ = {
 			isa = PBXGroup;
 			children = (
+				950460221FE01409005A0309 /* TemplatesHT🅃.swift */,
 			);
 			path = Patterns;
 			sourceTree = "<group>";
@@ -592,8 +713,9 @@
 		954E1CAD1FCF63D20093F68F /* Router */ = {
 			isa = PBXGroup;
 			children = (
-				954E1CC91FCF63D20093F68F /* RouterF🄿P🄲.swift */,
-				954E1CCA1FCF63D20093F68F /* RoutersF🄿.swift */,
+				951AE5661FE47F7200EB6E9C /* CodeRouter */,
+				954E1CC91FCF63D20093F68F /* CommandsF🄿P🄲.swift */,
+				954E1CCA1FCF63D20093F68F /* CommandsF🄿.swift */,
 				954E1CAE1FCF63D20093F68F /* DBRouter */,
 				954E1CBB1FCF63D20093F68F /* NETRouter */,
 				954E1CCB1FCF63D20093F68F /* UIRouter */,
@@ -623,7 +745,7 @@
 			isa = PBXGroup;
 			children = (
 				954E1CB51FCF63D20093F68F /* DBRouterC🅃.swift */,
-				954E1CB61FCF63D20093F68F /* DBRouterC🅃P🄿.swift */,
+				954E1CB61FCF63D20093F68F /* DBRouterC🅃P🄲.swift */,
 				954E1CB31FCF63D20093F68F /* Cleaner */,
 				954E1CB71FCF63D20093F68F /* Saver */,
 				954E1CB91FCF63D20093F68F /* Selectioner */,
@@ -734,6 +856,12 @@
 			children = (
 				954E1CCD1FCF63D20093F68F /* UIRouter.swift */,
 				954E1CCE1FCF63D20093F68F /* UIRouterP🄲.swift */,
+				951AE5751FE51F4100EB6E9C /* UIRouterID🄲.swift */,
+				951AE5771FE51FB000EB6E9C /* UIRouterOD🄲.swift */,
+				951AE5791FE51FD600EB6E9C /* UIRouterIA🄲.swift */,
+				951AE57B1FE5202500EB6E9C /* UIRouterOA🄲.swift */,
+				951AE57D1FE5205B00EB6E9C /* UIRouterPD🄲.swift */,
+				951AE57F1FE520AC00EB6E9C /* UIRouterPA🄲.swift */,
 			);
 			path = Abstract;
 			sourceTree = "<group>";
@@ -934,9 +1062,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				958E51741FD06B4900D516E1 /* Assembly🄼.swift in Sources */,
-				9554F75E1FD1F97D00E996B0 /* FirstOD🄲.swift in Sources */,
+				950460231FE01409005A0309 /* TemplatesHT🅃.swift in Sources */,
+				951AE58A1FE5360A00EB6E9C /* CommandsVC🄲C🅃P🄲.swift in Sources */,
+				951AE57E1FE5205B00EB6E9C /* UIRouterPD🄲.swift in Sources */,
 				954E1CD91FCF63D20093F68F /* DBRouterP🄲.swift in Sources */,
 				954E1C831FCF62650093F68F /* LogicalUnit.swift in Sources */,
+				951AE5781FE51FB000EB6E9C /* UIRouterOD🄲.swift in Sources */,
 				958E519B1FD093E300D516E1 /* AppDelegate.swift in Sources */,
 				954E1CA41FCF62650093F68F /* NavigationBarVM.swift in Sources */,
 				954E1C891FCF62650093F68F /* ThirdVC🄲.swift in Sources */,
@@ -944,12 +1075,19 @@
 				954E1CE41FCF63D20093F68F /* NETRouterC🅃P🄲.swift in Sources */,
 				958E51781FD06BB500D516E1 /* Scene.swift in Sources */,
 				954E1C861FCF62650093F68F /* FirstVM🄲.swift in Sources */,
+				951AE5651FE45B3900EB6E9C /* LogicalUnitC🅃P🄲.swift in Sources */,
+				951AE5741FE481AD00EB6E9C /* Runner.swift in Sources */,
 				954E1CEE1FCF63D20093F68F /* UIRouterC🅃P.swift in Sources */,
 				954E1C881FCF62650093F68F /* SecondVM🄲.swift in Sources */,
-				957330D21FDF1503005AD56A /* FirstOA🄲.swift in Sources */,
+				951AE5761FE51F4100EB6E9C /* UIRouterID🄲.swift in Sources */,
+				957330D21FDF1503005AD56A /* FirstVM🄲OA🄲.swift in Sources */,
 				954E1CE91FCF63D20093F68F /* UIRouterP🄲.swift in Sources */,
+				951AE5611FE309B700EB6E9C /* PrivateP🄲.swift in Sources */,
+				951AE56C1FE4800B00EB6E9C /* CodeRouterP🄲.swift in Sources */,
+				951AE5581FE3084900EB6E9C /* FirstVM🄲PA🄲.swift in Sources */,
 				954E1C7C1FCF62650093F68F /* To.swift in Sources */,
-				954E1C811FCF62650093F68F /* RouterVMP🄲.swift in Sources */,
+				951AE57A1FE51FD600EB6E9C /* UIRouterIA🄲.swift in Sources */,
+				954E1C811FCF62650093F68F /* CommandsVMP🄲.swift in Sources */,
 				954E1CED1FCF63D20093F68F /* UIRouterC🅃.swift in Sources */,
 				954E1C841FCF62650093F68F /* OutputP🄲.swift in Sources */,
 				954E1CA31FCF62650093F68F /* NavigationBarV.swift in Sources */,
@@ -958,20 +1096,24 @@
 				954E1CE81FCF63D20093F68F /* UIRouter.swift in Sources */,
 				954E1C7B1FCF62650093F68F /* Request.swift in Sources */,
 				954E1CA91FCF62650093F68F /* BaseCell.swift in Sources */,
+				951AE5631FE45B1800EB6E9C /* LogicalUnitC🅃.swift in Sources */,
+				951AE5841FE5259100EB6E9C /* LogicalUnitP🄲.swift in Sources */,
 				954E1CE51FCF63D20093F68F /* Updater.swift in Sources */,
+				951AE58E1FE5366600EB6E9C /* CommandsVC🄲.swift in Sources */,
+				951AE5821FE5238E00EB6E9C /* CommandsVM🄲C🅃P🄲.swift in Sources */,
 				954E1CE31FCF63D20093F68F /* NETRouterC.swift in Sources */,
 				954E1CDB1FCF63D20093F68F /* DBRouterC🅃.swift in Sources */,
 				9554F7571FD1F79400E996B0 /* OutputData.swift in Sources */,
-				954E1C801FCF62650093F68F /* RouterVM🄲.swift in Sources */,
+				954E1C801FCF62650093F68F /* CommandsVM🄲.swift in Sources */,
 				954E1CE01FCF63D20093F68F /* NETRouterP🄲.swift in Sources */,
 				954E1CAB1FCF62650093F68F /* SNPKitWayP🄲.swift in Sources */,
 				954E1CEA1FCF63D20093F68F /* Modaler.swift in Sources */,
-				9554F76C1FD205BD00E996B0 /* String+SeparatedByUpperCase.swift in Sources */,
-				957330D41FDF1515005AD56A /* FirstIA🄲.swift in Sources */,
+				957330D41FDF1515005AD56A /* FirstVM🄲IA🄲.swift in Sources */,
+				951AE5561FE3083400EB6E9C /* FirstVM🄲PD🄲.swift in Sources */,
 				954E1CA81FCF62650093F68F /* TabBarVM.swift in Sources */,
 				9554F7681FD1FE1300E996B0 /* SelectionerID🄲.swift in Sources */,
-				954E1CDC1FCF63D20093F68F /* DBRouterC🅃P🄿.swift in Sources */,
-				954E1CE71FCF63D20093F68F /* RoutersF🄿.swift in Sources */,
+				954E1CDC1FCF63D20093F68F /* DBRouterC🅃P🄲.swift in Sources */,
+				954E1CE71FCF63D20093F68F /* CommandsF🄿.swift in Sources */,
 				954E1CEC1FCF63D20093F68F /* Pusher.swift in Sources */,
 				954E1C751FCF62650093F68F /* Fonts.swift in Sources */,
 				9554F76A1FD1FF0300E996B0 /* SelectionerOD🄲.swift in Sources */,
@@ -980,30 +1122,40 @@
 				954E1C8A1FCF62650093F68F /* ThirdVM🄲.swift in Sources */,
 				954E1CA71FCF62650093F68F /* TabBarVC.swift in Sources */,
 				954E1CD81FCF63D20093F68F /* DBRouter.swift in Sources */,
-				9554F7661FD1FA3000E996B0 /* ThirdOD🄲.swift in Sources */,
+				951AE5851FE52EEE00EB6E9C /* SecondVM🄲ID🄲.swift in Sources */,
+				9554F7661FD1FA3000E996B0 /* ThirdVM🄲OD🄲.swift in Sources */,
 				954E1C7E1FCF62650093F68F /* BaseVM🄲.swift in Sources */,
 				954E1C7D1FCF62650093F68F /* BaseVC🄲.swift in Sources */,
 				954E1CDF1FCF63D20093F68F /* NETRouter.swift in Sources */,
 				954E1CA51FCF62650093F68F /* SideBarSVC.swift in Sources */,
 				957330D71FDF15FC005AD56A /* OutputActions.swift in Sources */,
-				9554F7601FD1F9D200E996B0 /* SecondID🄲.swift in Sources */,
 				9554F7551FD1F74400E996B0 /* InputData.swift in Sources */,
-				9554F7641FD1FA1700E996B0 /* ThirdID🄲.swift in Sources */,
+				951AE5861FE5302100EB6E9C /* FirstVM🄲OD🄲.swift in Sources */,
+				9554F7641FD1FA1700E996B0 /* ThirdVM🄲ID🄲.swift in Sources */,
 				954E1CE21FCF63D20093F68F /* Getter.swift in Sources */,
 				954E1CDE1FCF63D20093F68F /* Selectioner.swift in Sources */,
 				954E1CE11FCF63D20093F68F /* Creator.swift in Sources */,
-				9554F75B1FD1F93900E996B0 /* FirstID🄲.swift in Sources */,
+				951AE56A1FE47FDE00EB6E9C /* CodeRouter.swift in Sources */,
+				951AE58C1FE5363300EB6E9C /* CommandsVCP🄲.swift in Sources */,
+				9554F75B1FD1F93900E996B0 /* FirstVM🄲ID🄲.swift in Sources */,
 				954E1CAC1FCF62650093F68F /* StoryboardWayP🄲.swift in Sources */,
-				9554F7621FD1F9F200E996B0 /* SecondOD🄲.swift in Sources */,
+				9554F7621FD1F9F200E996B0 /* SecondVM🄲OD🄲.swift in Sources */,
 				954E1CA61FCF62650093F68F /* SideBarVM.swift in Sources */,
 				954E1C741FCF62650093F68F /* Colors.swift in Sources */,
+				951AE55C1FE3096800EB6E9C /* PrivateData.swift in Sources */,
 				954E1C851FCF62650093F68F /* FirstVC🄲.swift in Sources */,
+				951AE57C1FE5202500EB6E9C /* UIRouterOA🄲.swift in Sources */,
 				954E1C821FCF62650093F68F /* InputP🄲.swift in Sources */,
+				951AE56E1FE4805500EB6E9C /* CodeRouterC🅃.swift in Sources */,
 				954E1CEB1FCF63D20093F68F /* Poper.swift in Sources */,
-				954E1CE61FCF63D20093F68F /* RouterF🄿P🄲.swift in Sources */,
+				951AE5801FE520AC00EB6E9C /* UIRouterPA🄲.swift in Sources */,
+				951AE55A1FE3085A00EB6E9C /* FirstVM🄲PAP🄲.swift in Sources */,
+				954E1CE61FCF63D20093F68F /* CommandsF🄿P🄲.swift in Sources */,
+				951AE55E1FE3097400EB6E9C /* PrivateActions.swift in Sources */,
 				958E51681FD0691C00D516E1 /* Deletor.swift in Sources */,
 				954E1CDA1FCF63D20093F68F /* Сleaner.swift in Sources */,
 				957330D91FDF1652005AD56A /* InputActions.swift in Sources */,
+				951AE5701FE4813700EB6E9C /* CodeRouterC🅃P🄲.swift in Sources */,
 				954E1CDD1FCF63D20093F68F /* Saver.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

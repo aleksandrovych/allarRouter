@@ -9,12 +9,32 @@
 import Foundation
 import UIKit
 
-class BaseVC🄲: UIViewController, StoryboardWayP🄲, SNPKitWayP🄲, UICreateP🄲 {
-    var vm: RouterVM🄲!
+class BaseVC🄲: UIViewController, CommandsVM🄲C🅃P🄲, LogicalUnitP🄲 {
+    //MARK: -
+    //MARK: - Properties
+    //MARK: -
     
-    init(vm: RouterVM🄲!) {
+    //MARK: - RouterVM🄲C🅃P🄲
+    var vm: CommandsVM🄲!
+    
+    //MARK: - LogicalUnitP🄲
+    var inputData: InputData!
+    var inputActions: InputActions!
+    
+    var outputData: OutputData!
+    var outputActions: OutputActions!
+    
+    var privateData: PrivateData!
+    var privateActions: PrivateActions!
+    
+    //MARK: - Live cycle
+    required init(vm: CommandsVM🄲!) {
         super.init(nibName: nil, bundle: nil)
         self.vm = vm
+        
+        // LogicalUnitP🄲
+        setupLU🄲Data()
+        setupLU🄲Actions()
     }
     
     required init?(coder aDecoder: NSCoder) {
@@ -31,19 +51,24 @@ class BaseVC🄲: UIViewController, StoryboardWayP🄲, SNPKitWayP🄲, UICreate
         super.viewDidLoad()
         createUI()
     }
-    
-    
+}
+
+extension BaseVC🄲 : StoryboardWayP🄲 {
     //MARK: StoryboardWayP🄲
     func storyboardLayout() {
         // Override in subclasses
     }
-    
+}
+
+extension BaseVC🄲 : SNPKitWayP🄲 {
     //MARK: SNPKitWayP🄲
     func snpLayout() {
         // Override in subclasses
     }
-    
-    //MARK: CreateHierarchyP🄲
+}
+
+extension BaseVC🄲 : UICreateP🄲 {
+    //MARK: UICreateP🄲
     func createUI() {
         // Override in subclasses
     }

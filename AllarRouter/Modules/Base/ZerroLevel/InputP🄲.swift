@@ -8,7 +8,7 @@
 
 import Foundation
 
-protocol InputP🄲 {
+protocol InputP🄲: class {
     var inputData: InputData! {get set}
     var inputActions: InputActions! {get set}
 }

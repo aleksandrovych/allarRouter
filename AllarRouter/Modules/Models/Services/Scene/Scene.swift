@@ -11,14 +11,9 @@ import RxSwift
 import ObjectiveC.runtime
 
 class Scene {
-    //static var from:Int!
-    //static var to:Int!
-    //static var tuple = (from, to)
-    
-    static func start() {
-        //tuple[0] = from
-        //tuple[1] = to
-    }
+    static var from: LogicalUnitP🄲!
+    static var to: LogicalUnitP🄲!
+    static var tuple = (from, to)
 
     func getTypesOfProperties(in clazz: NSObject.Type) -> Dictionary<String, Any>? {
         var count = UInt32()

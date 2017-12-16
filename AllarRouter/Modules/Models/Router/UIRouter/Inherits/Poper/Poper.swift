@@ -9,4 +9,7 @@
 import Foundation
 
 class Poper: UIRouterC🅃 {
+    required init(lu🄲: LogicalUnitP🄲!) {
+        super.init(lu🄲: lu🄲)
+    }
 }

@@ -1,13 +1,13 @@
 //
-//  FirstOA.swift
+//  FirstPA.swift
 //  AllarRouter
 //
-//  Created by Allar-Alexey Alexandrovich on 11.12.17.
+//  Created by Allar-Alexey Alexandrovich on 14.12.17.
 //  Copyright © 2017 Allar-Alexey Alexandrovich. All rights reserved.
 //
 
 import Foundation
 
-class FirstOA🄲 : OutputActions{
+class FirstVM🄲PA🄲: PrivateActions {
     
 }

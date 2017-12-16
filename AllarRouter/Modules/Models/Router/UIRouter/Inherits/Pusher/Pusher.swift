@@ -11,22 +11,25 @@ import Foundation
 infix operator !/
 
 class Pusher: UIRouterC🅃 {
-    required init() {}
+    required init(lu🄲: LogicalUnitP🄲!) {
+        super.init(lu🄲: lu🄲)
+    }
     
     static func /(left: Pusher, right: String!) {
-        Pusher.createVC🄲(left, vc:right, animated:true)
+        Pusher.createVC🄲(left, name:right, animated:true)
     }
     
     static func !/(left: Pusher, right: String!) {
-        Pusher.createVC🄲(left, vc:right, animated:false)
+        Pusher.createVC🄲(left, name:right, animated:false)
     }
     
-    static func createVC🄲(_ pusher: Pusher, vc: String!, animated: Bool!){
-        assert(vc != nil, "Empty controller name")
-        let controller = pusher.router.getViewController(vc)
+    static func createVC🄲(_ pusher: Pusher, name: String!, animated: Bool!){
+        assert(name != nil, "Empty controller name")
+        let controller = pusher.router.getViewController(name) as! BaseVC🄲
+        Scene.to = controller.vm
         
         let navigation = pusher.router.currentNavigation
-        assert(navigation != nil, "Navigation controller shouldnt be nil")
+        assert(navigation != nil, "Navigation controller shouldn't be nil")
         
         if let controllers = navigation?.viewControllers{
             if controllers.count > 0{

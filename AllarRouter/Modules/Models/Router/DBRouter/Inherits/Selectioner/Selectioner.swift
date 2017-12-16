@@ -9,5 +9,7 @@
 import Foundation
 
 class Selectioner: DBRouterC🅃 {
-    
+    required init(lu🄲: LogicalUnitP🄲!) {
+        super.init(lu🄲: lu🄲)
+    }
 }

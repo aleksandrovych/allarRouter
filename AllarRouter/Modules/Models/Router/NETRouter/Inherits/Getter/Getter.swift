@@ -9,5 +9,8 @@
 import Foundation
 
 class Getter: NETRouterC🅃 {
+    required init(lu🄲: LogicalUnitP🄲!) {
+        super.init(lu🄲: lu🄲)
+    }
     
 }

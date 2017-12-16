@@ -18,7 +18,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         let root = FirstVC🄲(vm: FirstVM🄲())
         root.view.backgroundColor = Colors.gray1
-        _ = UIRouter(root: root)
+        UIRouter(root: root)
         window = UIRouter.window
         
         return true

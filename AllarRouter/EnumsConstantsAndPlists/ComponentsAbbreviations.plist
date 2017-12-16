@@ -22,6 +22,8 @@
 	<string>Input Data Protocol</string>
 	<key>I0🄲</key>
 	<string>Input Output</string>
+	<key>LU🄲</key>
+	<string>Logical Unit</string>
 	<key>M🄲</key>
 	<string>Model</string>
 	<key>OA🄲</key>
@@ -44,6 +46,14 @@
 	<string>View Model</string>
 	<key>VMP🄲</key>
 	<string>View Model Protocol</string>
+	<key>PA🄲</key>
+	<string>Private Action</string>
+	<key>PD🄲</key>
+	<string>Private Data</string>
+	<key>PDP🄲</key>
+	<string>Private Data Protocol</string>
+	<key>PAP🄲</key>
+	<string>Private Actions Protocol</string>
 	<key>S🄲</key>
 	<string>Screen</string>
 	<key>SVC🄲</key>

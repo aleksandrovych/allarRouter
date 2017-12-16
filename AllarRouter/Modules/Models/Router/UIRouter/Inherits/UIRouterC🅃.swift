@@ -8,10 +8,11 @@
 
 import Foundation
 
-class UIRouterC🅃: UIRouterC🅃P🄲 {
+class UIRouterC🅃: LogicalUnitC🅃, UIRouterC🅃P🄲 {
     open var router: UIRouter!
     
-    required init() {
+    required init(lu🄲: LogicalUnitP🄲!) {
+        super.init(lu🄲: lu🄲)
         self.router = UIRouter.shared
     }
 }

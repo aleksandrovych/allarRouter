@@ -1,5 +1,5 @@
 //
-//  UICreateP🄲.swift
+//  FirstIA.swift
 //  AllarRouter
 //
 //  Created by Allar-Alexey Alexandrovich on 11.12.17.
@@ -8,6 +8,9 @@
 
 import Foundation
 
-protocol UICreateP🄲 {
-    func createUI()
+protocol FirstVM🄲IAP🄲 {
+    
+}
+
+class FirstVM🄲IA🄲: InputActions {
 }

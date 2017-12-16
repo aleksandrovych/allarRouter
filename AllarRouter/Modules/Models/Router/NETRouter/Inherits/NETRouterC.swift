@@ -8,10 +8,11 @@
 
 import Foundation
 
-class NETRouterC🅃: NETRouterC🅃P🄲{
+class NETRouterC🅃: LogicalUnitC🅃, NETRouterC🅃P🄲{
     open var router: NETRouter!
     
-    required init() {
+    required init(lu🄲: LogicalUnitP🄲!) {
+        super.init(lu🄲:lu🄲)
         self.router = NETRouter.shared
     }
 }

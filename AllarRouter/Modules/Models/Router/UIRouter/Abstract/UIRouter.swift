@@ -9,9 +9,10 @@
 import Foundation
 import UIKit
 
-class UIRouter: UIRouterP🄲{
+class UIRouter: LogicalUnit, UIRouterP🄲{
     
     static var window: UIWindow!
+    
     fileprivate static var root: UIViewController!
     
     open var currentNavigation: UINavigationController!
@@ -21,7 +22,7 @@ class UIRouter: UIRouterP🄲{
         return router
     }()
     
-    required init(window: UIWindow! = UIRouter.createWindowInScreenSize()
+    @discardableResult required init(window: UIWindow! = UIRouter.createWindowInScreenSize()
                     , root: UIViewController! = UIRouter.createVCOfBaseType()) {
         UIRouter.window = window
         UIRouter.root = root
@@ -30,11 +31,22 @@ class UIRouter: UIRouterP🄲{
         window.makeKeyAndVisible()
     }
     
+    @discardableResult required convenience init() {
+        self.init(window: UIRouter.createWindowInScreenSize()
+        , root: UIRouter.createVCOfBaseType())
+    }
+    
     //TODO: Get view controller
     open func getViewController(_ name: String) -> UIViewController {
+        
+        let vcName = name + "VC🄲"
+        let vmName = name + "VM🄲"
+        
         let appName = Bundle.main.object(forInfoDictionaryKey: "CFBundleName") as! String
-        let viewControllerType = NSClassFromString("\(appName).\(name)") as! UIViewController.Type
-        return viewControllerType.init()
+        let viewControllerType = NSClassFromString("\(appName).\(vcName)") as! BaseVC🄲.Type
+        let viewModelType = NSClassFromString("\(appName).\(vmName)") as! CommandsVM🄲.Type
+        
+        return viewControllerType.init(vm: viewModelType.init())
     }
     
     fileprivate static func createWindowInScreenSize() -> UIWindow{
@@ -42,6 +54,6 @@ class UIRouter: UIRouterP🄲{
     }
     
     fileprivate static func createVCOfBaseType() -> BaseVC🄲{
-        return BaseVC🄲(vm: RouterVM🄲())
+        return BaseVC🄲(vm: CommandsVM🄲())
     }
 }

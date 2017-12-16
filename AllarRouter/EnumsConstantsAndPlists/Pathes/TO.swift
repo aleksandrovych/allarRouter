@@ -10,12 +10,8 @@ import Foundation
 
 class To {
     
-    static var First:  String!{return action()}
-    static var Second: String!{return action()}
-    static var Third:  String!{return action()}
-    
-    static var action = { () -> String in 
-        return "\(#function)VC"
-    }
+    static var First:  String! {return #function}
+    static var Second: String! {return #function}
+    static var Third:  String! {return #function}
 }
 
