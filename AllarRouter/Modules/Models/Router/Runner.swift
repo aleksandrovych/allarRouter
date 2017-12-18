@@ -12,4 +12,8 @@ class Runner: CodeRouterC🅃 {
     required init(lu🄲: LogicalUnitP🄲!) {
         super.init(lu🄲: lu🄲)
     }
+    
+    static func /(left: Runner, right: String!) {
+        
+    }
 }

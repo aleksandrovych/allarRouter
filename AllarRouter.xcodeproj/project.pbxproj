@@ -34,6 +34,29 @@
 		951AE58A1FE5360A00EB6E9C /* CommandsVC🄲C🅃P🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5891FE5360A00EB6E9C /* CommandsVC🄲C🅃P🄲.swift */; };
 		951AE58C1FE5363300EB6E9C /* CommandsVCP🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE58B1FE5363300EB6E9C /* CommandsVCP🄲.swift */; };
 		951AE58E1FE5366600EB6E9C /* CommandsVC🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE58D1FE5366600EB6E9C /* CommandsVC🄲.swift */; };
+		951AE5901FE53ABA00EB6E9C /* FirstVC🄲OA🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE58F1FE53ABA00EB6E9C /* FirstVC🄲OA🄲.swift */; };
+		951AE5921FE544C800EB6E9C /* Enum+Countable+Descriptable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5911FE544C800EB6E9C /* Enum+Countable+Descriptable.swift */; };
+		951AE5961FE5580F00EB6E9C /* FirstVC🄲IA🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5951FE5580F00EB6E9C /* FirstVC🄲IA🄲.swift */; };
+		951AE5981FE5583E00EB6E9C /* FirstVC🄲ID🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5971FE5583E00EB6E9C /* FirstVC🄲ID🄲.swift */; };
+		951AE59A1FE5587300EB6E9C /* FirstVC🄲OD🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5991FE5587300EB6E9C /* FirstVC🄲OD🄲.swift */; };
+		951AE59C1FE558C600EB6E9C /* FirstVC🄲PD🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE59B1FE558C600EB6E9C /* FirstVC🄲PD🄲.swift */; };
+		951AE59E1FE558E100EB6E9C /* FirstVC🄲PA🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE59D1FE558E100EB6E9C /* FirstVC🄲PA🄲.swift */; };
+		951AE5A21FE559E000EB6E9C /* SecondVM🄲IA🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5A11FE559E000EB6E9C /* SecondVM🄲IA🄲.swift */; };
+		951AE5A41FE559FB00EB6E9C /* SecondVM🄲OA🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5A31FE559FB00EB6E9C /* SecondVM🄲OA🄲.swift */; };
+		951AE5A61FE55A0A00EB6E9C /* SecondVM🄲PA🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5A51FE55A0A00EB6E9C /* SecondVM🄲PA🄲.swift */; };
+		951AE5A81FE55A1600EB6E9C /* SecondVM🄲PD🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5A71FE55A1600EB6E9C /* SecondVM🄲PD🄲.swift */; };
+		951AE5AA1FE55AA000EB6E9C /* SecondVС🄲ID🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5A91FE55AA000EB6E9C /* SecondVС🄲ID🄲.swift */; };
+		951AE5AC1FE55AF300EB6E9C /* SecondVC🄲OD🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5AB1FE55AF300EB6E9C /* SecondVC🄲OD🄲.swift */; };
+		951AE5AE1FE55AFC00EB6E9C /* SecondVC🄲OA🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5AD1FE55AFC00EB6E9C /* SecondVC🄲OA🄲.swift */; };
+		951AE5B01FE55B0B00EB6E9C /* SecondVC🄲IA🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5AF1FE55B0B00EB6E9C /* SecondVC🄲IA🄲.swift */; };
+		951AE5B21FE55B2700EB6E9C /* SecondVC🄲PD🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5B11FE55B2700EB6E9C /* SecondVC🄲PD🄲.swift */; };
+		951AE5B41FE55B3500EB6E9C /* SecondVC🄲PA🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5B31FE55B3500EB6E9C /* SecondVC🄲PA🄲.swift */; };
+		951AE5B61FE55C0000EB6E9C /* CodeRouterID🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5B51FE55C0000EB6E9C /* CodeRouterID🄲.swift */; };
+		951AE5B81FE55C0F00EB6E9C /* CodeRouterOD🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5B71FE55C0F00EB6E9C /* CodeRouterOD🄲.swift */; };
+		951AE5BA1FE55C1900EB6E9C /* CodeRouterIA🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5B91FE55C1900EB6E9C /* CodeRouterIA🄲.swift */; };
+		951AE5BC1FE55C2200EB6E9C /* CodeRouterOA🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5BB1FE55C2200EB6E9C /* CodeRouterOA🄲.swift */; };
+		951AE5BE1FE55C2B00EB6E9C /* CodeRouterPD🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5BD1FE55C2B00EB6E9C /* CodeRouterPD🄲.swift */; };
+		951AE5C01FE55C3700EB6E9C /* CodeRouterPA🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 951AE5BF1FE55C3700EB6E9C /* CodeRouterPA🄲.swift */; };
 		954E1C731FCF62650093F68F /* ComponentsAbbreviations.plist in Resources */ = {isa = PBXBuildFile; fileRef = 954E1C021FCF62650093F68F /* ComponentsAbbreviations.plist */; };
 		954E1C741FCF62650093F68F /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C041FCF62650093F68F /* Colors.swift */; };
 		954E1C751FCF62650093F68F /* Fonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C051FCF62650093F68F /* Fonts.swift */; };
@@ -43,7 +66,6 @@
 		954E1C791FCF62650093F68F /* ToolBarItems.plist in Resources */ = {isa = PBXBuildFile; fileRef = 954E1C0A1FCF62650093F68F /* ToolBarItems.plist */; };
 		954E1C7A1FCF62650093F68F /* Local.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C0C1FCF62650093F68F /* Local.swift */; };
 		954E1C7B1FCF62650093F68F /* Request.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C0D1FCF62650093F68F /* Request.swift */; };
-		954E1C7C1FCF62650093F68F /* To.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C0E1FCF62650093F68F /* To.swift */; };
 		954E1C7D1FCF62650093F68F /* BaseVC🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C121FCF62650093F68F /* BaseVC🄲.swift */; };
 		954E1C7E1FCF62650093F68F /* BaseVM🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C131FCF62650093F68F /* BaseVM🄲.swift */; };
 		954E1C7F1FCF62650093F68F /* BaseVMP🄲.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954E1C141FCF62650093F68F /* BaseVMP🄲.swift */; };
@@ -171,6 +193,29 @@
 		951AE5891FE5360A00EB6E9C /* CommandsVC🄲C🅃P🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CommandsVC🄲C🅃P🄲.swift"; sourceTree = "<group>"; };
 		951AE58B1FE5363300EB6E9C /* CommandsVCP🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CommandsVCP🄲.swift"; sourceTree = "<group>"; };
 		951AE58D1FE5366600EB6E9C /* CommandsVC🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CommandsVC🄲.swift"; sourceTree = "<group>"; };
+		951AE58F1FE53ABA00EB6E9C /* FirstVC🄲OA🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "FirstVC🄲OA🄲.swift"; sourceTree = "<group>"; };
+		951AE5911FE544C800EB6E9C /* Enum+Countable+Descriptable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "Enum+Countable+Descriptable.swift"; path = "AllarRouter/Modules/Flow/First/Enum+Countable+Descriptable.swift"; sourceTree = SOURCE_ROOT; };
+		951AE5951FE5580F00EB6E9C /* FirstVC🄲IA🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "FirstVC🄲IA🄲.swift"; sourceTree = "<group>"; };
+		951AE5971FE5583E00EB6E9C /* FirstVC🄲ID🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "FirstVC🄲ID🄲.swift"; sourceTree = "<group>"; };
+		951AE5991FE5587300EB6E9C /* FirstVC🄲OD🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "FirstVC🄲OD🄲.swift"; sourceTree = "<group>"; };
+		951AE59B1FE558C600EB6E9C /* FirstVC🄲PD🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "FirstVC🄲PD🄲.swift"; sourceTree = "<group>"; };
+		951AE59D1FE558E100EB6E9C /* FirstVC🄲PA🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "FirstVC🄲PA🄲.swift"; sourceTree = "<group>"; };
+		951AE5A11FE559E000EB6E9C /* SecondVM🄲IA🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SecondVM🄲IA🄲.swift"; sourceTree = "<group>"; };
+		951AE5A31FE559FB00EB6E9C /* SecondVM🄲OA🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SecondVM🄲OA🄲.swift"; sourceTree = "<group>"; };
+		951AE5A51FE55A0A00EB6E9C /* SecondVM🄲PA🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SecondVM🄲PA🄲.swift"; sourceTree = "<group>"; };
+		951AE5A71FE55A1600EB6E9C /* SecondVM🄲PD🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SecondVM🄲PD🄲.swift"; sourceTree = "<group>"; };
+		951AE5A91FE55AA000EB6E9C /* SecondVС🄲ID🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SecondVС🄲ID🄲.swift"; sourceTree = "<group>"; };
+		951AE5AB1FE55AF300EB6E9C /* SecondVC🄲OD🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SecondVC🄲OD🄲.swift"; sourceTree = "<group>"; };
+		951AE5AD1FE55AFC00EB6E9C /* SecondVC🄲OA🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SecondVC🄲OA🄲.swift"; sourceTree = "<group>"; };
+		951AE5AF1FE55B0B00EB6E9C /* SecondVC🄲IA🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SecondVC🄲IA🄲.swift"; sourceTree = "<group>"; };
+		951AE5B11FE55B2700EB6E9C /* SecondVC🄲PD🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SecondVC🄲PD🄲.swift"; sourceTree = "<group>"; };
+		951AE5B31FE55B3500EB6E9C /* SecondVC🄲PA🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SecondVC🄲PA🄲.swift"; sourceTree = "<group>"; };
+		951AE5B51FE55C0000EB6E9C /* CodeRouterID🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CodeRouterID🄲.swift"; sourceTree = "<group>"; };
+		951AE5B71FE55C0F00EB6E9C /* CodeRouterOD🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CodeRouterOD🄲.swift"; sourceTree = "<group>"; };
+		951AE5B91FE55C1900EB6E9C /* CodeRouterIA🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CodeRouterIA🄲.swift"; sourceTree = "<group>"; };
+		951AE5BB1FE55C2200EB6E9C /* CodeRouterOA🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CodeRouterOA🄲.swift"; sourceTree = "<group>"; };
+		951AE5BD1FE55C2B00EB6E9C /* CodeRouterPD🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CodeRouterPD🄲.swift"; sourceTree = "<group>"; };
+		951AE5BF1FE55C3700EB6E9C /* CodeRouterPA🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CodeRouterPA🄲.swift"; sourceTree = "<group>"; };
 		954E1C021FCF62650093F68F /* ComponentsAbbreviations.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ComponentsAbbreviations.plist; sourceTree = "<group>"; };
 		954E1C041FCF62650093F68F /* Colors.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
 		954E1C051FCF62650093F68F /* Fonts.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Fonts.swift; sourceTree = "<group>"; };
@@ -180,7 +225,6 @@
 		954E1C0A1FCF62650093F68F /* ToolBarItems.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ToolBarItems.plist; sourceTree = "<group>"; };
 		954E1C0C1FCF62650093F68F /* Local.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Local.swift; sourceTree = "<group>"; };
 		954E1C0D1FCF62650093F68F /* Request.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Request.swift; sourceTree = "<group>"; };
-		954E1C0E1FCF62650093F68F /* To.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = To.swift; sourceTree = "<group>"; };
 		954E1C121FCF62650093F68F /* BaseVC🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "BaseVC🄲.swift"; sourceTree = "<group>"; };
 		954E1C131FCF62650093F68F /* BaseVM🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "BaseVM🄲.swift"; sourceTree = "<group>"; };
 		954E1C141FCF62650093F68F /* BaseVMP🄲.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "BaseVMP🄲.swift"; sourceTree = "<group>"; };
@@ -327,6 +371,12 @@
 			children = (
 				951AE5691FE47FDE00EB6E9C /* CodeRouter.swift */,
 				951AE56B1FE4800B00EB6E9C /* CodeRouterP🄲.swift */,
+				951AE5B51FE55C0000EB6E9C /* CodeRouterID🄲.swift */,
+				951AE5B71FE55C0F00EB6E9C /* CodeRouterOD🄲.swift */,
+				951AE5B91FE55C1900EB6E9C /* CodeRouterIA🄲.swift */,
+				951AE5BB1FE55C2200EB6E9C /* CodeRouterOA🄲.swift */,
+				951AE5BD1FE55C2B00EB6E9C /* CodeRouterPD🄲.swift */,
+				951AE5BF1FE55C3700EB6E9C /* CodeRouterPA🄲.swift */,
 			);
 			name = Abstract;
 			sourceTree = "<group>";
@@ -369,6 +419,63 @@
 			name = vc;
 			sourceTree = "<group>";
 		};
+		951AE5931FE557C400EB6E9C /* vc */ = {
+			isa = PBXGroup;
+			children = (
+				954E1C211FCF62650093F68F /* FirstVC🄲.swift */,
+				951AE58F1FE53ABA00EB6E9C /* FirstVC🄲OA🄲.swift */,
+				951AE5951FE5580F00EB6E9C /* FirstVC🄲IA🄲.swift */,
+				951AE5971FE5583E00EB6E9C /* FirstVC🄲ID🄲.swift */,
+				951AE5991FE5587300EB6E9C /* FirstVC🄲OD🄲.swift */,
+				951AE59B1FE558C600EB6E9C /* FirstVC🄲PD🄲.swift */,
+				951AE59D1FE558E100EB6E9C /* FirstVC🄲PA🄲.swift */,
+			);
+			name = vc;
+			sourceTree = "<group>";
+		};
+		951AE5941FE557D600EB6E9C /* vm */ = {
+			isa = PBXGroup;
+			children = (
+				954E1C221FCF62650093F68F /* FirstVM🄲.swift */,
+				9554F75A1FD1F93900E996B0 /* FirstVM🄲ID🄲.swift */,
+				9554F75D1FD1F97D00E996B0 /* FirstVM🄲OD🄲.swift */,
+				957330D11FDF1503005AD56A /* FirstVM🄲OA🄲.swift */,
+				957330D31FDF1515005AD56A /* FirstVM🄲IA🄲.swift */,
+				951AE5551FE3083400EB6E9C /* FirstVM🄲PD🄲.swift */,
+				951AE5571FE3084900EB6E9C /* FirstVM🄲PA🄲.swift */,
+				951AE5591FE3085A00EB6E9C /* FirstVM🄲PAP🄲.swift */,
+			);
+			name = vm;
+			sourceTree = "<group>";
+		};
+		951AE59F1FE5598E00EB6E9C /* vm */ = {
+			isa = PBXGroup;
+			children = (
+				954E1C251FCF62650093F68F /* SecondVM🄲.swift */,
+				9554F75F1FD1F9D200E996B0 /* SecondVM🄲ID🄲.swift */,
+				9554F7611FD1F9F200E996B0 /* SecondVM🄲OD🄲.swift */,
+				951AE5A11FE559E000EB6E9C /* SecondVM🄲IA🄲.swift */,
+				951AE5A31FE559FB00EB6E9C /* SecondVM🄲OA🄲.swift */,
+				951AE5A51FE55A0A00EB6E9C /* SecondVM🄲PA🄲.swift */,
+				951AE5A71FE55A1600EB6E9C /* SecondVM🄲PD🄲.swift */,
+			);
+			name = vm;
+			sourceTree = "<group>";
+		};
+		951AE5A01FE5599F00EB6E9C /* vc */ = {
+			isa = PBXGroup;
+			children = (
+				954E1C241FCF62650093F68F /* SecondVC🄲.swift */,
+				951AE5A91FE55AA000EB6E9C /* SecondVС🄲ID🄲.swift */,
+				951AE5AB1FE55AF300EB6E9C /* SecondVC🄲OD🄲.swift */,
+				951AE5AD1FE55AFC00EB6E9C /* SecondVC🄲OA🄲.swift */,
+				951AE5AF1FE55B0B00EB6E9C /* SecondVC🄲IA🄲.swift */,
+				951AE5B11FE55B2700EB6E9C /* SecondVC🄲PD🄲.swift */,
+				951AE5B31FE55B3500EB6E9C /* SecondVC🄲PA🄲.swift */,
+			);
+			name = vc;
+			sourceTree = "<group>";
+		};
 		954E1C011FCF62650093F68F /* EnumsConstantsAndPlists */ = {
 			isa = PBXGroup;
 			children = (
@@ -405,7 +512,6 @@
 			children = (
 				954E1C0C1FCF62650093F68F /* Local.swift */,
 				954E1C0D1FCF62650093F68F /* Request.swift */,
-				954E1C0E1FCF62650093F68F /* To.swift */,
 			);
 			path = Pathes;
 			sourceTree = "<group>";
@@ -501,15 +607,8 @@
 		954E1C201FCF62650093F68F /* First */ = {
 			isa = PBXGroup;
 			children = (
-				954E1C211FCF62650093F68F /* FirstVC🄲.swift */,
-				954E1C221FCF62650093F68F /* FirstVM🄲.swift */,
-				9554F75A1FD1F93900E996B0 /* FirstVM🄲ID🄲.swift */,
-				9554F75D1FD1F97D00E996B0 /* FirstVM🄲OD🄲.swift */,
-				957330D11FDF1503005AD56A /* FirstVM🄲OA🄲.swift */,
-				957330D31FDF1515005AD56A /* FirstVM🄲IA🄲.swift */,
-				951AE5551FE3083400EB6E9C /* FirstVM🄲PD🄲.swift */,
-				951AE5571FE3084900EB6E9C /* FirstVM🄲PA🄲.swift */,
-				951AE5591FE3085A00EB6E9C /* FirstVM🄲PAP🄲.swift */,
+				951AE5941FE557D600EB6E9C /* vm */,
+				951AE5931FE557C400EB6E9C /* vc */,
 			);
 			path = First;
 			sourceTree = "<group>";
@@ -517,10 +616,8 @@
 		954E1C231FCF62650093F68F /* Second */ = {
 			isa = PBXGroup;
 			children = (
-				954E1C241FCF62650093F68F /* SecondVC🄲.swift */,
-				954E1C251FCF62650093F68F /* SecondVM🄲.swift */,
-				9554F75F1FD1F9D200E996B0 /* SecondVM🄲ID🄲.swift */,
-				9554F7611FD1F9F200E996B0 /* SecondVM🄲OD🄲.swift */,
+				951AE5A01FE5599F00EB6E9C /* vc */,
+				951AE59F1FE5598E00EB6E9C /* vm */,
 			);
 			path = Second;
 			sourceTree = "<group>";
@@ -551,6 +648,7 @@
 		954E1C2A1FCF62650093F68F /* Categories */ = {
 			isa = PBXGroup;
 			children = (
+				951AE5911FE544C800EB6E9C /* Enum+Countable+Descriptable.swift */,
 			);
 			path = Categories;
 			sourceTree = "<group>";
@@ -1068,6 +1166,8 @@
 				954E1CD91FCF63D20093F68F /* DBRouterP🄲.swift in Sources */,
 				954E1C831FCF62650093F68F /* LogicalUnit.swift in Sources */,
 				951AE5781FE51FB000EB6E9C /* UIRouterOD🄲.swift in Sources */,
+				951AE5901FE53ABA00EB6E9C /* FirstVC🄲OA🄲.swift in Sources */,
+				951AE5B61FE55C0000EB6E9C /* CodeRouterID🄲.swift in Sources */,
 				958E519B1FD093E300D516E1 /* AppDelegate.swift in Sources */,
 				954E1CA41FCF62650093F68F /* NavigationBarVM.swift in Sources */,
 				954E1C891FCF62650093F68F /* ThirdVC🄲.swift in Sources */,
@@ -1075,8 +1175,11 @@
 				954E1CE41FCF63D20093F68F /* NETRouterC🅃P🄲.swift in Sources */,
 				958E51781FD06BB500D516E1 /* Scene.swift in Sources */,
 				954E1C861FCF62650093F68F /* FirstVM🄲.swift in Sources */,
+				951AE59C1FE558C600EB6E9C /* FirstVC🄲PD🄲.swift in Sources */,
 				951AE5651FE45B3900EB6E9C /* LogicalUnitC🅃P🄲.swift in Sources */,
+				951AE5A21FE559E000EB6E9C /* SecondVM🄲IA🄲.swift in Sources */,
 				951AE5741FE481AD00EB6E9C /* Runner.swift in Sources */,
+				951AE5A61FE55A0A00EB6E9C /* SecondVM🄲PA🄲.swift in Sources */,
 				954E1CEE1FCF63D20093F68F /* UIRouterC🅃P.swift in Sources */,
 				954E1C881FCF62650093F68F /* SecondVM🄲.swift in Sources */,
 				951AE5761FE51F4100EB6E9C /* UIRouterID🄲.swift in Sources */,
@@ -1084,30 +1187,41 @@
 				954E1CE91FCF63D20093F68F /* UIRouterP🄲.swift in Sources */,
 				951AE5611FE309B700EB6E9C /* PrivateP🄲.swift in Sources */,
 				951AE56C1FE4800B00EB6E9C /* CodeRouterP🄲.swift in Sources */,
+				951AE5981FE5583E00EB6E9C /* FirstVC🄲ID🄲.swift in Sources */,
 				951AE5581FE3084900EB6E9C /* FirstVM🄲PA🄲.swift in Sources */,
-				954E1C7C1FCF62650093F68F /* To.swift in Sources */,
 				951AE57A1FE51FD600EB6E9C /* UIRouterIA🄲.swift in Sources */,
 				954E1C811FCF62650093F68F /* CommandsVMP🄲.swift in Sources */,
 				954E1CED1FCF63D20093F68F /* UIRouterC🅃.swift in Sources */,
 				954E1C841FCF62650093F68F /* OutputP🄲.swift in Sources */,
+				951AE5B41FE55B3500EB6E9C /* SecondVC🄲PA🄲.swift in Sources */,
 				954E1CA31FCF62650093F68F /* NavigationBarV.swift in Sources */,
 				954E1CAA1FCF62650093F68F /* BaseItem.swift in Sources */,
+				951AE5921FE544C800EB6E9C /* Enum+Countable+Descriptable.swift in Sources */,
 				954E1C7F1FCF62650093F68F /* BaseVMP🄲.swift in Sources */,
 				954E1CE81FCF63D20093F68F /* UIRouter.swift in Sources */,
 				954E1C7B1FCF62650093F68F /* Request.swift in Sources */,
 				954E1CA91FCF62650093F68F /* BaseCell.swift in Sources */,
+				951AE5BA1FE55C1900EB6E9C /* CodeRouterIA🄲.swift in Sources */,
 				951AE5631FE45B1800EB6E9C /* LogicalUnitC🅃.swift in Sources */,
 				951AE5841FE5259100EB6E9C /* LogicalUnitP🄲.swift in Sources */,
 				954E1CE51FCF63D20093F68F /* Updater.swift in Sources */,
 				951AE58E1FE5366600EB6E9C /* CommandsVC🄲.swift in Sources */,
 				951AE5821FE5238E00EB6E9C /* CommandsVM🄲C🅃P🄲.swift in Sources */,
 				954E1CE31FCF63D20093F68F /* NETRouterC.swift in Sources */,
+				951AE5B01FE55B0B00EB6E9C /* SecondVC🄲IA🄲.swift in Sources */,
 				954E1CDB1FCF63D20093F68F /* DBRouterC🅃.swift in Sources */,
+				951AE5B81FE55C0F00EB6E9C /* CodeRouterOD🄲.swift in Sources */,
+				951AE5AC1FE55AF300EB6E9C /* SecondVC🄲OD🄲.swift in Sources */,
+				951AE5BE1FE55C2B00EB6E9C /* CodeRouterPD🄲.swift in Sources */,
+				951AE5C01FE55C3700EB6E9C /* CodeRouterPA🄲.swift in Sources */,
 				9554F7571FD1F79400E996B0 /* OutputData.swift in Sources */,
 				954E1C801FCF62650093F68F /* CommandsVM🄲.swift in Sources */,
 				954E1CE01FCF63D20093F68F /* NETRouterP🄲.swift in Sources */,
+				951AE5AE1FE55AFC00EB6E9C /* SecondVC🄲OA🄲.swift in Sources */,
+				951AE59E1FE558E100EB6E9C /* FirstVC🄲PA🄲.swift in Sources */,
 				954E1CAB1FCF62650093F68F /* SNPKitWayP🄲.swift in Sources */,
 				954E1CEA1FCF63D20093F68F /* Modaler.swift in Sources */,
+				951AE5AA1FE55AA000EB6E9C /* SecondVС🄲ID🄲.swift in Sources */,
 				957330D41FDF1515005AD56A /* FirstVM🄲IA🄲.swift in Sources */,
 				951AE5561FE3083400EB6E9C /* FirstVM🄲PD🄲.swift in Sources */,
 				954E1CA81FCF62650093F68F /* TabBarVM.swift in Sources */,
@@ -1123,6 +1237,8 @@
 				954E1CA71FCF62650093F68F /* TabBarVC.swift in Sources */,
 				954E1CD81FCF63D20093F68F /* DBRouter.swift in Sources */,
 				951AE5851FE52EEE00EB6E9C /* SecondVM🄲ID🄲.swift in Sources */,
+				951AE5961FE5580F00EB6E9C /* FirstVC🄲IA🄲.swift in Sources */,
+				951AE5BC1FE55C2200EB6E9C /* CodeRouterOA🄲.swift in Sources */,
 				9554F7661FD1FA3000E996B0 /* ThirdVM🄲OD🄲.swift in Sources */,
 				954E1C7E1FCF62650093F68F /* BaseVM🄲.swift in Sources */,
 				954E1C7D1FCF62650093F68F /* BaseVC🄲.swift in Sources */,
@@ -1130,6 +1246,7 @@
 				954E1CA51FCF62650093F68F /* SideBarSVC.swift in Sources */,
 				957330D71FDF15FC005AD56A /* OutputActions.swift in Sources */,
 				9554F7551FD1F74400E996B0 /* InputData.swift in Sources */,
+				951AE5A81FE55A1600EB6E9C /* SecondVM🄲PD🄲.swift in Sources */,
 				951AE5861FE5302100EB6E9C /* FirstVM🄲OD🄲.swift in Sources */,
 				9554F7641FD1FA1700E996B0 /* ThirdVM🄲ID🄲.swift in Sources */,
 				954E1CE21FCF63D20093F68F /* Getter.swift in Sources */,
@@ -1137,9 +1254,12 @@
 				954E1CE11FCF63D20093F68F /* Creator.swift in Sources */,
 				951AE56A1FE47FDE00EB6E9C /* CodeRouter.swift in Sources */,
 				951AE58C1FE5363300EB6E9C /* CommandsVCP🄲.swift in Sources */,
+				951AE5A41FE559FB00EB6E9C /* SecondVM🄲OA🄲.swift in Sources */,
 				9554F75B1FD1F93900E996B0 /* FirstVM🄲ID🄲.swift in Sources */,
 				954E1CAC1FCF62650093F68F /* StoryboardWayP🄲.swift in Sources */,
 				9554F7621FD1F9F200E996B0 /* SecondVM🄲OD🄲.swift in Sources */,
+				951AE5B21FE55B2700EB6E9C /* SecondVC🄲PD🄲.swift in Sources */,
+				951AE59A1FE5587300EB6E9C /* FirstVC🄲OD🄲.swift in Sources */,
 				954E1CA61FCF62650093F68F /* SideBarVM.swift in Sources */,
 				954E1C741FCF62650093F68F /* Colors.swift in Sources */,
 				951AE55C1FE3096800EB6E9C /* PrivateData.swift in Sources */,

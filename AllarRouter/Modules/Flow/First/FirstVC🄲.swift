@@ -36,7 +36,7 @@ class FirstVC🄲: CommandsVC🄲 {
     //MARK: Actions
     
     func secondSClicked(sender: UIButton) {
-        //vm.navigateToSecondSAction()
+        run / String(describing:FirstVC🄲OA🄲T🅃.showSecondVC🄲)
     }
 }
 

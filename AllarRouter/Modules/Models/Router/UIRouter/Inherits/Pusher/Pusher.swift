@@ -10,17 +10,22 @@ import Foundation
 
 infix operator !/
 
+enum FromFirst: Int, Countable, Descriptable {
+    case Second
+    case Third
+}
+
 class Pusher: UIRouterC🅃 {
     required init(lu🄲: LogicalUnitP🄲!) {
         super.init(lu🄲: lu🄲)
     }
     
-    static func /(left: Pusher, right: String!) {
-        Pusher.createVC🄲(left, name:right, animated:true)
+    static func /(left: Pusher, right: FromFirst!) {
+        Pusher.createVC🄲(left, name:right.description, animated:true)
     }
     
-    static func !/(left: Pusher, right: String!) {
-        Pusher.createVC🄲(left, name:right, animated:false)
+    static func !/(left: Pusher, right: FromFirst!) {
+        Pusher.createVC🄲(left, name:right.description, animated:false)
     }
     
     static func createVC🄲(_ pusher: Pusher, name: String!, animated: Bool!){
